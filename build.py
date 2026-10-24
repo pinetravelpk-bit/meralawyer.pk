@@ -37,6 +37,7 @@ P = {
  "key": "M14 3a6 6 0 1 1-4.5 10L3 19.5V22h3v-2h2v-2h2l1.5-1.5A6 6 0 0 1 14 3z",
  "user": "M12 3a4 4 0 1 1 0 8 4 4 0 0 1 0-8z M4 21a8 8 0 0 1 16 0",
  "split": "M12 3v6 M12 9l-6 6v6 M12 9l6 6v6",
+ "x": "M6 6l12 12 M18 6L6 18",
 }
 AREA_ICON = {"family-lawyer": "family", "criminal-lawyer": "gavel", "property-lawyer": "home", "corporate-lawyer": "bldg", "overseas-pakistani-lawyer": "globe"}
 SVC_ICON = {"company-registration": "bldg", "income-tax-return": "calc", "ntn-registration": "receipt", "sales-tax-registration": "pct", "trademark-registration": "star", "legal-notice": "mail", "agreements": "doc", "court-marriage": "rings", "khula": "split", "succession-certificate": "family", "property-verification": "search", "property-transfer": "key", "power-of-attorney": "user", "bail-application": "gavel"}
@@ -186,9 +187,17 @@ def header(active=""):
 <div class="nav-dd-menu"><a href="/about/">About MeraLawyer.pk</a><a href="/about/{CEO['slug']}/">{E(CEO['name'])}, CEO</a></div></div>
 <a href="/faq/"{cur('faq')}>FAQ</a>
 <a href="/contact/"{cur('contact')}>Contact</a>
+<div class="nav-cta">
+<a class="btn btn-gold" href="/contact/">Book a consultation</a>
+<div class="nav-cta-row">
+<a class="btn btn-ghost" href="{TEL}">{icon('phone', 18, 'currentColor', 2)} Call</a>
+<a class="btn btn-wa" href="{WA_URL}" target="_blank" rel="noopener">{icon('wa', 18, 'currentColor', 2)} WhatsApp</a>
+</div>
+<p class="nav-cta-note">{E(C['hours_display'])}</p>
+</div>
 </nav>
 <a class="btn btn-gold header-cta" href="/contact/">Book a consultation</a>
-<button class="menu-btn" type="button" aria-controls="site-nav" aria-expanded="false" aria-label="Open menu">{icon('menu', 22, 'currentColor', 2)}</button>
+<button class="menu-btn" type="button" aria-controls="site-nav" aria-expanded="false" aria-label="Open menu">{icon('menu', 22, 'currentColor', 2, 'i-open')}{icon('x', 22, 'currentColor', 2, 'i-close')}</button>
 </div></header>
 """
 
@@ -218,8 +227,16 @@ def footer():
 <span>© <span id="year">2026</span> {E(C['brand'])}. <a href="/privacy-policy/">Privacy policy</a> · <a href="/disclaimer/">Disclaimer</a> · <a href="/sitemap.xml">Sitemap</a></span>
 <span>Information on this site is general and is not legal advice for your situation.</span>
 </div>
+<p class="powered">Powered by <a href="https://rxdirect.pk/" target="_blank" rel="noopener">RXDirect.pk</a></p>
 </div></footer>
 <a class="wa-float" href="{WA_URL}" target="_blank" rel="noopener" aria-label="Chat with us on WhatsApp">{icon('wa', 30, '#FFFFFF', 1.8)}</a>
+<nav class="tabbar" aria-label="Quick links">
+<a href="/" data-tab="/">{icon('home', 22, 'currentColor', 1.9)}<span>Home</span></a>
+<a href="/hire-a-lawyer/" data-tab="/hire-a-lawyer/">{icon('gavel', 22, 'currentColor', 1.9)}<span>Lawyers</span></a>
+<a class="tab-main" href="{TEL}" aria-label="Call {E(C['phone_display'])}"><span class="tab-main-ic">{icon('phone', 24, 'currentColor', 2)}</span><span>Call</span></a>
+<a href="/legal-services/" data-tab="/legal-services/">{icon('doc', 22, 'currentColor', 1.9)}<span>Services</span></a>
+<a class="tab-wa" href="{WA_URL}" target="_blank" rel="noopener">{icon('wa', 22, 'currentColor', 1.9)}<span>WhatsApp</span></a>
+</nav>
 <script src="/assets/js/main.js" defer></script>
 </body>
 </html>
