@@ -336,3 +336,17 @@ a.card:hover{border-color:var(--ink);transform:translateY(-4px);color:var(--text
   .tab-main-ic{width:54px;height:54px;margin-top:-28px;border-radius:50%;background:var(--gold);color:var(--ink);display:flex;align-items:center;justify-content:center;border:4px solid #fff;box-shadow:0 10px 22px -8px rgba(138,106,31,.8)}
   .tabbar .tab-wa svg{color:#1DA851}
 }
+
+/* ---- long-form guide content ---- */
+.keyfacts{background:#fff;border:1px solid var(--line);border-left:4px solid var(--gold);border-radius:var(--r);padding:26px 30px;margin-bottom:8px}
+.keyfacts h2{font-family:var(--sans)!important;font-size:14px!important;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--gold-text);line-height:1.3}
+.keyfacts ul{margin:14px 0 0;padding-left:20px}
+.keyfacts li{margin-top:8px;line-height:1.6;max-width:75ch}
+.guide p+p{margin-top:16px}
+.guide p+ul{margin-top:18px}
+.longform{margin-top:72px}
+.longform section{margin-top:56px}
+.longform>section:first-child{margin-top:0}
+.longform h2{font-size:clamp(28px,3vw,40px)}
+.longform h2+p,.longform h2+ul{margin-top:18px}
+@media (max-width:600px){.keyfacts{padding:22px 20px}}

@@ -2,6 +2,13 @@
 """Builds the MeraLawyer.pk static website into ./site . Run: python3 build.py"""
 import json, os, re, shutil, html, urllib.parse
 from content import CONFIG as C, AREAS, SERVICES, CITIES, COURTS, GENERAL_FAQS, CEO
+from long_areas import LONG_AREAS
+from long_services_a import LONG_SERVICES_A
+from long_services_b import LONG_SERVICES_B
+from long_pages import LONG_PAGES
+LONG = {**{"area:" + k: v for k, v in LONG_AREAS.items()},
+        **{"svc:" + k: v for k, v in {**LONG_SERVICES_A, **LONG_SERVICES_B}.items()},
+        **LONG_PAGES}
 
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "site")
 D = C["domain"]
@@ -94,7 +101,7 @@ def graph(path, title, desc, crumbs, ptype="WebPage", extra=None, faqs=None):
     page = {"@type": ptype, "@id": url + "#webpage", "url": url, "name": title, "description": desc, "inLanguage": "en-PK",
             "isPartOf": {"@id": D + "/#website"}, "about": {"@id": D + "/#org"}, "dateModified": C["updated"],
             "primaryImageOfPage": {"@type": "ImageObject", "url": D + "/assets/img/og-image.png"},
-            "speakable": {"@type": "SpeakableSpecification", "cssSelector": ["h1", ".answer p"]}}
+            "speakable": {"@type": "SpeakableSpecification", "cssSelector": ["h1", ".answer p", ".keyfacts li"]}}
     if crumbs:
         page["breadcrumb"] = {"@id": url + "#breadcrumb"}
         nodes.append({"@type": "BreadcrumbList", "@id": url + "#breadcrumb", "itemListElement": [
@@ -153,7 +160,7 @@ def head(path, title, desc, schema, og_type="website", noindex=False):
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="{E(LATIN_FONT)}">
 <link rel="stylesheet" href="{E(URDU_FONT)}">
-<link rel="stylesheet" href="/assets/css/styles.css?v=2">
+<link rel="stylesheet" href="/assets/css/styles.css?v=3">
 <script type="application/ld+json">
 {schema}
 </script>
@@ -237,7 +244,7 @@ def footer():
 <a href="/legal-services/" data-tab="/legal-services/">{icon('doc', 22, 'currentColor', 1.9)}<span>Services</span></a>
 <a class="tab-wa" href="{WA_URL}" target="_blank" rel="noopener">{icon('wa', 22, 'currentColor', 1.9)}<span>WhatsApp</span></a>
 </nav>
-<script src="/assets/js/main.js?v=2" defer></script>
+<script src="/assets/js/main.js?v=3" defer></script>
 </body>
 </html>
 """
@@ -308,6 +315,31 @@ def area_card(a, dark=True):
 
 def ticks(items, one=False):
     return '<ul class="ticks%s">%s</ul>' % (" one" if one else "", "".join(f"<li>{TICK}<span>{x}</span></li>" for x in items))
+
+# ------------------------------------------------------------------ long-form guide content
+def keyfacts(key):
+    g = LONG.get(key)
+    if not g: return ""
+    return ('<section class="keyfacts" aria-labelledby="kf-h"><h2 id="kf-h">Key facts at a glance</h2><ul>'
+            + "".join(f"<li>{E(f)}</li>" for f in g["facts"]) + "</ul></section>")
+
+def guide(key):
+    g = LONG.get(key)
+    if not g: return ""
+    out = ""
+    for i, (h, paras, bullets) in enumerate(g["sections"]):
+        out += f'<section class="guide" aria-labelledby="g{i}-h"><h2 id="g{i}-h">{E(h)}</h2>' + "".join(f"<p>{E(p)}</p>" for p in paras)
+        if bullets: out += ticks([E(b) for b in bullets], True)
+        out += "</section>"
+    return out
+
+def guide_md(key):
+    g = LONG.get(key)
+    if not g: return []
+    L = ["Key facts:"] + [f"- {f}" for f in g["facts"]] + [""]
+    for h, paras, bullets in g["sections"]:
+        L += [f"### {h}", ""] + paras + ([f"- {b}" for b in bullets] if bullets else []) + [""]
+    return L
 
 def write(path, title, desc, body, schema, active="", og_type="website", noindex=False, sitemap=True, priority="0.7"):
     out = os.path.join(OUT, path.strip("/"), "index.html") if path != "/404" else os.path.join(OUT, "404.html")
@@ -397,7 +429,7 @@ def hire_hub():
     items = [{"@type": "ItemList", "@id": D + path + "#list", "itemListElement": [{"@type": "ListItem", "position": i + 1, "name": a["name"], "url": f"{D}/hire-a-lawyer/{a['slug']}/"} for i, a in enumerate(AREAS)]}]
     body = page_hero(cr, "Hire a lawyer in Islamabad and Rawalpindi", "Choose the area of law that matches your matter. Each page explains what the lawyer does, the cases they handle and common questions.") + \
         answer_box("How do I hire a lawyer in Islamabad or Rawalpindi?", "Identify the area of law your matter falls under, then speak to an advocate who practises in that area in your city. With MeraLawyer.pk you describe your matter once, a case manager matches you with a vetted advocate, and you agree the fee before work starts.") + \
-        f'<div class="section"><div class="wrap"><div class="grid-3">{"".join(area_card(a) for a in AREAS)}</div>{blocks}</div></div>' + cta()
+        f'<div class="section"><div class="wrap"><div class="grid-3">{"".join(area_card(a) for a in AREAS)}</div>{blocks}<div class="longform prose">{keyfacts("hub:hire-a-lawyer")}{guide("hub:hire-a-lawyer")}</div></div></div>' + cta()
     write(path, t, d, body, graph(path, t, d, cr, "CollectionPage", items), priority="0.9")
 
 def area_page(a):
@@ -409,8 +441,10 @@ def area_page(a):
     body = page_hero(cr, a["h1"], None, a["urdu"]) + answer_box(f"What does a {a['name'].lower()} do?", a["answer"]) + f"""
 <div class="section"><div class="wrap article">
 <div class="prose">
+{keyfacts("area:" + a["slug"])}
 <section aria-labelledby="cases-h"><h2 id="cases-h">Cases our {E(a['short'].lower())} lawyers handle</h2><div class="grid-2" style="gap:16px;margin-top:24px">{cases}</div></section>
 <section aria-labelledby="help-h"><h2 id="help-h">How your lawyer helps</h2>{ticks(a['help'], True)}</section>
+{guide("area:" + a["slug"])}
 <section aria-labelledby="courts-h"><h2 id="courts-h">Courts where our lawyers appear</h2><ul class="tags">{"".join(f"<li>{E(c)}</li>" for c in COURTS)}</ul></section>
 <section aria-labelledby="rel-h"><h2 id="rel-h">Related legal services</h2><div class="grid-2" style="gap:16px;margin-top:24px">{rel}</div></section>
 <section aria-labelledby="faq-h">{faq_html(a['faqs'])}</section>
@@ -434,7 +468,7 @@ def services_hub():
     items = [{"@type": "ItemList", "@id": D + path + "#list", "itemListElement": [{"@type": "ListItem", "position": i + 1, "name": s["name"], "url": f"{D}/legal-services/{s['slug']}/"} for i, s in enumerate(SERVICES)]}]
     body = page_hero(cr, "Legal services in Islamabad and Rawalpindi", "Fixed-fee legal work handled by lawyers, from SECP and FBR filings to notices, agreements and family documentation.") + \
         answer_box("Which legal services do you provide?", "MeraLawyer.pk provides business and tax services (company registration, income tax returns, NTN, sales tax, trademarks), documents and notices (legal notices, agreements, power of attorney), family services (court marriage, khula, succession certificates), property services (verification and transfer) and urgent bail applications, all in Islamabad and Rawalpindi.") + \
-        f'<div class="section" style="padding-top:40px"><div class="wrap">{blocks}</div></div>' + cta()
+        f'<div class="section" style="padding-top:40px"><div class="wrap">{blocks}<div class="longform prose">{keyfacts("hub:legal-services")}{guide("hub:legal-services")}</div></div></div>' + cta()
     write(path, t, d, body, graph(path, t, d, cr, "CollectionPage", items), priority="0.9")
 
 def service_page(s):
@@ -447,12 +481,14 @@ def service_page(s):
     body = page_hero(cr, s["h1"], None) + answer_box(f"Quick answer: {s['name'].lower()}", s["answer"]) + f"""
 <div class="section"><div class="wrap article">
 <div class="prose">
+{keyfacts("svc:" + s["slug"])}
 <section aria-labelledby="who-h"><h2 id="who-h">Who needs {E(s['name'].lower())}?</h2><p>{E(s['who'])}</p></section>
 <section aria-labelledby="inc-h"><h2 id="inc-h">What our {E(s['name'].lower())} service includes</h2>{ticks([E(x) for x in s['includes']])}</section>
 <section aria-labelledby="proc-h"><h2 id="proc-h">{E(s['name'])} process, step by step</h2><ol class="vsteps" style="margin-top:28px">{steps}</ol></section>
 <section aria-labelledby="docs-h"><h2 id="docs-h">Documents required</h2>{ticks([E(x) for x in s['docs']], True)}</section>
 <section aria-labelledby="fee-h"><h2 id="fee-h">Fee and timeline</h2><div class="fee" style="margin-top:20px"><p style="font-size:22px;font-weight:700">Our fee: from [PRICE]</p><p class="muted" style="margin-top:8px">Government and official fees are charged at actual cost and shown separately. We confirm the exact fee and expected timeline for your case before you start.</p></div></section>
 <section aria-labelledby="law-h"><h2 id="law-h">Laws that apply</h2><ul class="laws" style="margin-top:20px">{"".join(f"<li>{E(l)}</li>" for l in s['laws'])}</ul></section>
+{guide("svc:" + s["slug"])}
 <section aria-labelledby="faq-h">{faq_html(s['faqs'], f"{s['name']}: frequently asked questions")}</section>
 <section aria-labelledby="rel-h"><h2 id="rel-h">Related services</h2><div class="grid-2" style="gap:16px;margin-top:24px">{rel}</div><p style="margin-top:24px">Need representation in court? <a href="/hire-a-lawyer/{a['slug']}/">Hire a {E(a['short'].lower())} lawyer</a>.</p></section>
 </div>
@@ -473,17 +509,20 @@ def city_page(c):
     body = page_hero(cr, c["h1"], None, c["urdu"]) + answer_box(f"How do I find a good lawyer in {c['city']}?", c["answer"]) + f"""
 <div class="section"><div class="wrap article">
 <div class="prose">
+{keyfacts("city:" + c["slug"])}
 <section aria-labelledby="ar-h"><h2 id="ar-h">Lawyers in {c['city']} by practice area</h2><div class="grid-2" style="gap:16px;margin-top:24px">{"".join(area_card(a, False) for a in AREAS)}</div></section>
 <section aria-labelledby="ct-h"><h2 id="ct-h">Courts in {c['city']} where our lawyers appear</h2><ul class="tags" style="margin-top:20px">{"".join(f"<li>{E(x)}</li>" for x in c['courts'])}</ul></section>
 <section aria-labelledby="sv-h"><h2 id="sv-h">Popular legal services in {c['city']}</h2><div class="grid-2" style="gap:16px;margin-top:24px">{"".join(svc_card(S_BY[s]) for s in top)}</div></section>
 <section aria-labelledby="loc-h"><h2 id="loc-h">Areas of {c['city']} we serve</h2><ul class="tags" style="margin-top:20px">{"".join(f"<li>{E(x)}</li>" for x in c['areas'])}</ul><p style="margin-top:20px">Also in the twin city: <a href="/{other['slug']}/">lawyer in {other['city']}</a>.</p></section>
+{guide("city:" + c["slug"])}
 <section aria-labelledby="faq-h">{faq_html(c['faqs'], f"Hiring a lawyer in {c['city']}: questions")}</section>
 </div>
 <aside class="aside">{match_form('match', f"Get a lawyer in {c['city']}", None, c['city'])}
 <div class="side-links"><h2>Office in {c['city']}</h2><p style="margin-top:10px;font-size:15px">{E(C['isb_address'] if c['city'] == 'Islamabad' else C['rwp_address'])}<br><a href="{TEL}">{E(C['phone_display'])}</a><br>{E(C['hours_display'])}</p></div></aside>
 </div></div>{cta()}"""
     ex = [{"@type": "Place", "@id": D + path + "#place", "name": c["city"], "geo": {"@type": "GeoCoordinates", "latitude": float(c["lat"]), "longitude": float(c["lng"])},
-           "containedInPlace": {"@type": "AdministrativeArea", "name": c["region"]}}]
+           "containedInPlace": {"@type": "AdministrativeArea", "name": c["region"]},
+           "containsPlace": [{"@type": "Place", "name": f"{x}, {c['city']}"} for x in c["areas"]]}]
     write(path, c["title"], c["meta"], body, graph(path, c["title"], c["meta"], cr, "WebPage", ex, c["faqs"]), active="isb" if c["city"] == "Islamabad" else "rwp", priority="0.9")
 
 def about():
@@ -492,11 +531,13 @@ def about():
     cr = [("Home", "/"), ("About", path)]
     body = page_hero(cr, "About MeraLawyer.pk", "A simpler, more transparent way to hire a lawyer in the twin cities.") + answer_box("Who is behind MeraLawyer.pk?", "MeraLawyer.pk was founded in [YEAR] by [FOUNDER NAME AND QUALIFICATIONS] to make hiring a lawyer in Islamabad and Rawalpindi simple and transparent. It works with licensed advocates across family, criminal, property and corporate law.") + f"""
 <div class="section"><div class="wrap article"><div class="prose">
+{keyfacts("about")}
 <section><h2>Why we started</h2><p>[Your story: why you started MeraLawyer.pk and the problem you saw people facing when they needed a lawyer.]</p></section>
 <section><h2>How we choose lawyers</h2>{ticks(["Every advocate is enrolled with the relevant bar council, and we check the licence.", "Each lawyer works in defined practice areas, so you are matched to someone who handles your type of case.", "We review client feedback after every matter.", "Lawyers agree to give fee quotes upfront and update clients after hearings."], True)}</section>
 <section><h2>Leadership</h2><a class="card" href="/about/{CEO['slug']}/" style="margin-top:20px;flex-direction:row;gap:20px;align-items:center"><span class="ic" style="width:72px;height:72px;border-radius:50%;font-family:var(--serif);color:{GOLD};font-size:26px">{''.join(w[0] for w in CEO['name'].split()[1:])}</span><span><h3 style="margin-top:0">{E(CEO['name'])}</h3><p style="margin-top:4px">{E(CEO['role'])}, {E(C['brand'])}</p><span class="more" style="padding-top:8px;display:block">Read profile</span></span></a></section>
 <section><h2>Our lawyers</h2><p>[Add a short profile for each lead lawyer: name, bar enrolment (e.g. Advocate High Court), years of practice, practice areas and courts. Real named experts strengthen trust with clients, search engines and AI assistants.]</p></section>
 <section><h2>Our commitments</h2>{ticks(["The fee is agreed before work starts.", "Your information stays confidential.", "You get an update after every hearing.", "Consultations in Urdu or English."], True)}</section>
+{guide("about")}
 </div><aside class="aside">{match_form('match')}</aside></div></div>{cta()}"""
     write(path, t, d, body, graph(path, t, d, cr, "AboutPage"), active="about", priority="0.6")
 
@@ -531,9 +572,11 @@ def ceo_page():
 </div></div></div></section>
 {answer_box(f"Who is {p['name']}?", p['summary'])}
 <div class="section"><div class="wrap article"><div class="prose">
+{keyfacts("ceo")}
 <section><h2>Why he founded MeraLawyer.pk</h2><p>{E(p['story'])}</p></section>
 <section><h2>Background</h2>{ticks([E(x) for x in p['background']], True)}</section>
 <section><h2>What he is building</h2>{ticks([E(x) for x in p['focus']], True)}</section>
+{guide("ceo")}
 <section class="quote" style="text-align:left"><blockquote style="margin:0;max-width:30ch">{E(p['quote'])}</blockquote><p style="margin-top:16px;font-weight:700">{E(p['name'])}</p><p class="muted">{E(p['role'])}</p></section>
 <section><h2>Contact {E(p['name'].split()[1])}'s office</h2><p>For media, partnerships or to speak to the leadership team, call <a href="{TEL}">{E(C['phone_display'])}</a>, message us on <a href="{WA_URL}" target="_blank" rel="noopener">WhatsApp</a> or email <a href="mailto:{E(p['email'] or C['email'])}">{E(p['email'] or C['email'])}</a>.</p></section>
 </div><aside class="aside">{match_form('match')}</aside></div></div>{cta()}"""
@@ -560,7 +603,8 @@ def contact():
 <div class="card"><h3 style="margin-top:0">Rawalpindi</h3><p>{E(C['rwp_address'])}</p><a class="more" href="{maps(C['rwp_address'])}" target="_blank" rel="noopener">Open in Google Maps</a></div>
 </div>
 <p class="muted" style="margin-top:24px">Office hours: {E(C['hours_display'])}. Urgent bail matters: call or WhatsApp any time.</p>
-</div></div></div>"""
+</div></div></div>
+<div class="section" style="padding-top:0"><div class="wrap longform prose">{keyfacts("contact")}{guide("contact")}</div></div>"""
     write(path, t, d, body, graph(path, t, d, cr, "ContactPage"), active="contact", priority="0.7")
 
 def faq_page():
@@ -576,9 +620,9 @@ def faq_page():
         f'<div class="section" style="padding-top:40px"><div class="wrap article"><div class="prose">{secs}</div><aside class="aside">{match_form("match", "Still have a question?")}</aside></div></div>' + cta()
     write(path, t, d, body, graph(path, t, d, cr, "WebPage", faqs=allf), active="faq", priority="0.7")
 
-def legal(path, h1, t, d, paras):
+def legal(path, h1, t, d, paras, key=None):
     cr = [("Home", "/"), (h1, path)]
-    body = page_hero(cr, h1, None) + '<div class="section"><div class="wrap prose">' + "".join(f"<section style='margin-top:40px'><h2 style='font-size:28px'>{E(h)}</h2><p style='margin-top:12px'>{E(p)}</p></section>" for h, p in paras) + "</div></div>"
+    body = page_hero(cr, h1, None) + '<div class="section"><div class="wrap prose longform">' + keyfacts(key) + "".join(f"<section style='margin-top:40px'><h2 style='font-size:28px'>{E(h)}</h2><p style='margin-top:12px'>{E(p)}</p></section>" for h, p in paras) + guide(key) + "</div></div>"
     write(path, t, d, body, graph(path, t, d, cr), priority="0.3")
 
 def not_found():
@@ -607,11 +651,14 @@ def extras():
     # llms-full.txt: all key facts in plain markdown
     F = [f"# {C['brand']} — full content", "", L[2], ""]
     for a in AREAS:
-        F += [f"## {a['h1']}", f"URL: {D}/hire-a-lawyer/{a['slug']}/", "", a["answer"], "", "Cases handled:"] + [f"- {n}: {x}" for n, x in a["cases"]] + [""] + sum([[f"Q: {q}", f"A: {x}", ""] for q, x in a["faqs"]], [])
+        F += [f"## {a['h1']}", f"URL: {D}/hire-a-lawyer/{a['slug']}/", "", a["answer"], "", "Cases handled:"] + [f"- {n}: {x}" for n, x in a["cases"]] + [""] + guide_md("area:" + a["slug"]) + sum([[f"Q: {q}", f"A: {x}", ""] for q, x in a["faqs"]], [])
     for s in SERVICES:
-        F += [f"## {s['h1']}", f"URL: {D}/legal-services/{s['slug']}/", "", s["answer"], "", "Process:"] + [f"{i+1}. {x}: {y}" for i, (x, y) in enumerate(s["steps"])] + ["", "Documents required:"] + [f"- {x}" for x in s["docs"]] + ["", "Laws: " + "; ".join(s["laws"]), ""] + sum([[f"Q: {q}", f"A: {x}", ""] for q, x in s["faqs"]], [])
+        F += [f"## {s['h1']}", f"URL: {D}/legal-services/{s['slug']}/", "", s["answer"], "", "Process:"] + [f"{i+1}. {x}: {y}" for i, (x, y) in enumerate(s["steps"])] + ["", "Documents required:"] + [f"- {x}" for x in s["docs"]] + ["", "Laws: " + "; ".join(s["laws"]), ""] + guide_md("svc:" + s["slug"]) + sum([[f"Q: {q}", f"A: {x}", ""] for q, x in s["faqs"]], [])
     for c in CITIES:
-        F += [f"## {c['h1']}", f"URL: {D}/{c['slug']}/", "", c["answer"], "", "Courts: " + "; ".join(c["courts"]), "Areas served: " + ", ".join(c["areas"]), ""]
+        F += [f"## {c['h1']}", f"URL: {D}/{c['slug']}/", "", c["answer"], "", "Courts: " + "; ".join(c["courts"]), "Areas served: " + ", ".join(c["areas"]), ""] + guide_md("city:" + c["slug"])
+    for key, title, url in [("hub:hire-a-lawyer", "Hire a lawyer in Islamabad and Rawalpindi", "/hire-a-lawyer/"), ("hub:legal-services", "Legal services in Islamabad and Rawalpindi", "/legal-services/"),
+                            ("about", "About MeraLawyer.pk", "/about/"), ("contact", "Contact MeraLawyer.pk", "/contact/")]:
+        F += [f"## {title}", f"URL: {D}{url}", ""] + guide_md(key)
     F += ["## General questions", ""] + sum([[f"Q: {q}", f"A: {x}", ""] for q, x in GENERAL_FAQS], [])
     open(os.path.join(OUT, "llms-full.txt"), "w", encoding="utf-8").write("\n".join(F))
     # manifest
@@ -653,16 +700,9 @@ def build():
     for a in AREAS: area_page(a)
     for s in SERVICES: service_page(s)
     for c in CITIES: city_page(c)
-    legal("/privacy-policy/", "Privacy policy", "Privacy Policy | MeraLawyer.pk", "How MeraLawyer.pk collects, uses and protects the information you share when you contact us about a legal matter.", [
-        ("What we collect", "The name, phone number, city and description of your matter that you send us by form, phone, email or WhatsApp."),
-        ("How we use it", "Only to understand your matter, match you with a lawyer and contact you about it. We do not sell your information."),
-        ("Who sees it", "Our case managers and the lawyer you are matched with. Lawyers are bound by professional confidentiality."),
-        ("Your choices", f"You can ask us to delete your information at any time by writing to {C['email']}."),
-        ("Updates", "[Have a lawyer review this policy before publishing, and add your full policy text here.]")])
-    legal("/disclaimer/", "Disclaimer", "Legal Disclaimer | MeraLawyer.pk", "Important information about the general legal content on MeraLawyer.pk. It is not legal advice for your specific situation.", [
-        ("General information only", "Content on this website explains Pakistani law and procedures in general terms. It is not legal advice for your situation and does not create a lawyer-client relationship."),
-        ("Laws change", "Laws, fees and official procedures change. Always confirm the current position with a lawyer before acting."),
-        ("No guaranteed outcome", "No lawyer can guarantee the result of a case. Outcomes depend on facts, evidence and the court.")])
+    # Full text lives in long_pages.py ("privacy", "disclaimer"); have a lawyer review both before relying on them.
+    legal("/privacy-policy/", "Privacy policy", "Privacy Policy | MeraLawyer.pk", "How MeraLawyer.pk collects, uses and protects the information you share when you contact us about a legal matter.", [], "privacy")
+    legal("/disclaimer/", "Disclaimer", "Legal Disclaimer | MeraLawyer.pk", "Important information about the general legal content on MeraLawyer.pk. It is not legal advice for your specific situation.", [], "disclaimer")
     not_found(); extras(); images()
     print(f"Built {len(PAGES) + 1} pages into {OUT}")
 

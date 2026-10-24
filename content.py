@@ -13,7 +13,7 @@ CONFIG = {
     "hours": "Mo-Sa 09:00-19:00",
     "hours_display": "Monday to Saturday, 9am to 7pm",
     "reviewer": "[Advocate name], Advocate High Court",  # [EDIT] real reviewing lawyer
-    "updated": "2026-10-02",
+    "updated": "2026-10-25",
     "founded": "2026",
     "facebook": "", "instagram": "", "linkedin": "", "youtube": "",  # [EDIT] profile URLs
 }

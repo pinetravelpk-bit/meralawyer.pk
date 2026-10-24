@@ -17,6 +17,57 @@ Cases handled:
 - Court marriage: Nikah before a nikah registrar with full documentation.
 - Guardianship certificate: Legal guardianship of a minor for property, school or travel.
 
+Key facts:
+- Family cases in Islamabad and Rawalpindi are heard by the Family Courts under the Family Courts Act 1964.
+- A khula, maintenance or dowry suit is usually filed where the wife ordinarily resides.
+- Family courts are directed to decide cases within six months of the defendant's first appearance (section 12-A).
+- Divorce and khula take effect through the Union Council or Arbitration Council after the 90-day period under the Muslim Family Laws Ordinance 1961.
+- Child custody and guardianship are decided under the Guardians and Wards Act 1890, with the welfare of the child as the main test.
+
+### When should you hire a family lawyer in Islamabad or Rawalpindi?
+
+You should speak to a family lawyer as soon as a marriage, custody or maintenance dispute becomes difficult to settle within the family. Early advice protects your position: a lawyer can tell you which court has jurisdiction, what evidence to preserve (nikah nama, receipts for dowry articles, bank transfers, messages) and whether a negotiated settlement is realistic before anything is filed.
+Many people wait until they receive a court summons or a talaq notice. By then, deadlines are running and documents may be lost. A short consultation at the start usually costs far less than repairing a case later, and it gives you a clear picture of the time and fees involved in Islamabad or Rawalpindi.
+- You want to file for khula or have received a khula notice
+- Your spouse has sent or received a talaq notice through the Union Council
+- You need maintenance for yourself or your children, including arrears
+- You are seeking custody, visitation or a guardianship certificate
+- You want dowry articles, gold or gifts returned after separation
+- You plan a court marriage and want the paperwork done correctly
+
+### How does a family case move through the Family Court?
+
+A family suit starts with a plaint filed in the Family Court that has territorial jurisdiction. The court issues summons, the defendant files a written statement, and the judge holds a pre-trial hearing to attempt reconciliation. If reconciliation fails, the court frames issues, records evidence from both sides and then decides the case. In a khula suit, the court can pass a decree at the pre-trial stage if reconciliation fails.
+After a decree, the work is not always finished. Maintenance decrees often need execution proceedings to recover money, and custody orders may need to be enforced. Your lawyer should explain these later stages at the start so you know the full path, not only the first hearing.
+
+### Which family court will hear your case: Islamabad or Rawalpindi?
+
+Jurisdiction mostly depends on where the wife ordinarily resides, or in custody matters, where the minor ordinarily lives. If the wife lives in an Islamabad sector such as G-9, I-8 or F-10, the case usually goes to the Family Courts in Islamabad. If she lives in Satellite Town, Saddar, Chaklala or Bahria Town Rawalpindi, the case usually goes to the Family Courts at the Rawalpindi district courts.
+Filing in the wrong court causes delays and can lead to the plaint being returned. Because the twin cities sit side by side and many families move between them, checking jurisdiction carefully is one of the first things a family lawyer in Islamabad or Rawalpindi does.
+
+### What documents should you bring to a family lawyer?
+
+Bring whatever you have; your lawyer will tell you what else to collect. Copies are enough for the first meeting, but keep originals safe because the court may ask to see them.
+- Nikah nama (marriage certificate) and NADRA marriage registration certificate, if issued
+- CNICs of both spouses and B-forms or birth certificates of children
+- Any talaq notice, khula notice or Union Council correspondence
+- List and receipts of dowry articles, jewellery and gifts
+- Evidence of income or expenses relevant to maintenance (salary slips, school fee receipts, medical bills)
+- Messages, call records or letters relevant to the dispute
+
+### How much does a family lawyer cost, and what affects the fee?
+
+There is no fixed government rate for lawyers' fees in Pakistan. The fee depends on the type of case, whether it is contested, the number of hearings expected and whether execution or appeal is likely. An uncontested khula or a court marriage is simpler than a contested custody case with several witnesses.
+At MeraLawyer.pk the fee for your matter is agreed before work starts, and court fees, process fees and certified-copy charges are shown separately at actual cost. Ask any lawyer you speak to for the same clarity: what the fee covers, which stages are included and what happens if the case takes longer than expected.
+
+### Can overseas Pakistanis run a family case without travelling?
+
+Yes, in most cases. You can appoint a lawyer and a local attorney through a power of attorney attested at a Pakistani embassy or consulate. The lawyer files and attends hearings, and you follow progress through WhatsApp updates and video calls. Some stages, such as recording your own evidence, may need your presence or special arrangements, and your lawyer will tell you in advance if that is the case.
+
+### How MeraLawyer.pk helps with family matters
+
+We match you with a family advocate who regularly appears in the Family Courts of Islamabad or Rawalpindi, depending on where your case belongs. You get a clear explanation in Urdu or English, a written list of the documents needed, the agreed fee, and an update after each hearing. Your details are shared only with the lawyer handling your matter.
+
 Q: How much does a family lawyer charge in Islamabad?
 A: Fees depend on the type of case, whether it is contested and how many hearings are expected. A simple uncontested matter costs far less than a contested custody case. MeraLawyer.pk gives you the full fee for your case after a free first call.
 
@@ -43,6 +94,57 @@ Cases handled:
 - Cyber crime: FIA cases under the Prevention of Electronic Crimes Act 2016.
 - Cheque dishonour: Cases under section 489-F of the Pakistan Penal Code.
 - Appeals: Criminal appeals and revisions before the High Court.
+
+Key facts:
+- Bail in non-bailable offences is sought under section 497 (post-arrest) and section 498 (pre-arrest) of the Code of Criminal Procedure 1898.
+- A bail application is normally filed first in the Court of Session, and then in the High Court if refused.
+- A false or malicious FIR can be challenged, including through quashment proceedings before the High Court.
+- Cyber crime offences under the Prevention of Electronic Crimes Act 2016 are investigated by the federal cyber crime agency and tried by designated courts.
+- In Rawalpindi, criminal appeals and bail matters beyond the sessions court go to the Lahore High Court, Rawalpindi Bench; in Islamabad, to the Islamabad High Court.
+
+### What should you do in the first hours after an FIR is registered?
+
+The first hours matter most. Get a copy of the FIR and note the police station, the sections applied and the names of the complainant and investigating officer. Do not give statements or sign documents without legal advice. If the offence is non-bailable and you have not been arrested, a criminal lawyer can assess whether to apply for pre-arrest bail without delay.
+If a family member has already been arrested, the lawyer can check whether the arrest and remand were lawful, apply for post-arrest bail, and make sure the person is produced before a magistrate within the time the law requires. Tell your lawyer at once if the matter is urgent so that it is prioritised.
+- Collect the FIR number, police station and sections of law
+- Do not contact the complainant or witnesses about the case
+- Keep documents, messages and receipts that support your side
+- Share any medical reports or evidence of an earlier dispute
+- Call a lawyer before appearing at the police station
+
+### What is the difference between pre-arrest and post-arrest bail?
+
+Pre-arrest bail (also called protective or anticipatory bail) under section 498 CrPC protects a person from arrest. Courts grant it when the accused shows that the case appears to be motivated by mala fide intentions or ulterior motives, along with the usual grounds for bail. Post-arrest bail under section 497 CrPC is for a person already in custody, and the court considers the nature of the offence, the evidence and whether the case calls for further inquiry.
+Offences that are bailable under the Code are different: the accused has a right to bail under section 496. A criminal lawyer reviews the sections in your FIR to tell you which route applies and how strong the grounds are.
+
+### Which courts hear criminal matters in Islamabad and Rawalpindi?
+
+In Islamabad, criminal trials and bail applications start in the District and Sessions Courts (East and West), with further remedies in the Islamabad High Court. In Rawalpindi, they start at the district courts at Kachehri, with further remedies in the Lahore High Court, Rawalpindi Bench. Special courts hear particular categories, such as anti-corruption, banking and cyber crime cases, and anti-terrorism matters are heard by anti-terrorism courts.
+Choosing a lawyer who appears regularly in the relevant court is practical as well as legal: they know the procedure, the listing system and how to move an urgent application on the same day.
+
+### How can a false FIR be challenged?
+
+Several remedies exist, and the right one depends on the facts. The accused can join the investigation and produce evidence of innocence, ask senior police officers to change the investigation, seek bail, or apply to the High Court to quash the FIR or proceedings where the case is clearly an abuse of process. The complainant in a false case can also face legal consequences under the Pakistan Penal Code.
+A careful lawyer will not promise quashment. They will explain which remedy has the best chance on your facts and what evidence will help, such as call records, CCTV footage, documents showing you were elsewhere, or proof of a prior civil dispute.
+
+### What criminal cases do lawyers in the twin cities commonly handle?
+
+Criminal lawyers in Islamabad and Rawalpindi handle a wide range of matters. Some of the most common are listed below; if your matter is not listed, describe it and we will match you with the right advocate.
+- Cheque dishonour cases under section 489-F PPC
+- Fraud, cheating and breach of trust
+- Harassment, threats and defamation complaints
+- Cyber crime complaints and defence under PECA 2016
+- Narcotics cases under the Control of Narcotic Substances Act 1997
+- Assault, hurt and property damage cases
+- Criminal appeals and revisions
+
+### How much does a criminal lawyer charge?
+
+Fees depend on the court, the seriousness of the offence, the urgency and the stage of the case. A single bail application in the sessions court is priced differently from a full trial defence or a High Court petition. MeraLawyer.pk agrees the fee with you before the lawyer starts, so you know what each stage will cost.
+
+### How MeraLawyer.pk handles urgent criminal matters
+
+When you mark a matter as urgent, a case manager calls you back as a priority and connects you with a criminal advocate who can act quickly in the right court in Islamabad or Rawalpindi. You receive clear advice on what to do and what to avoid, and updates after each hearing by phone or WhatsApp.
 
 Q: What is the difference between pre-arrest and post-arrest bail?
 A: Pre-arrest bail (section 498 CrPC) protects you from arrest before it happens and is granted only in limited circumstances, such as a malicious case. Post-arrest bail (section 497 CrPC) is sought after you have been arrested.
@@ -71,6 +173,56 @@ Cases handled:
 - Specific performance: Enforcing a sale agreement when the other side backs out.
 - Recovery suits: Recovery of money under Order XXXVII CPC.
 
+Key facts:
+- Sale of immovable property worth one hundred rupees or more must be made by a registered instrument under the Transfer of Property Act 1882 and the Registration Act 1908.
+- In Rawalpindi, land records are maintained digitally by the Punjab Land Records Authority through its service centres.
+- In Islamabad, transfers in CDA sectors go through the Capital Development Authority, and in private societies through the society's transfer office.
+- Federal advance taxes apply on purchase and sale of property, and provincial or ICT stamp duty applies on the transfer deed; rates change in annual Finance Acts.
+- Verifying title, mutation history and approval status of the housing scheme before paying is the most effective way to avoid fraud.
+
+### Why do you need a property lawyer before buying in Islamabad or Rawalpindi?
+
+Property fraud usually happens before the sale, not after it. Fake files, double sales, forged powers of attorney and plots in unapproved housing schemes all look genuine until someone checks the records. A property lawyer checks title, compares documents with official records, and makes sure the payment schedule protects you until the transfer is complete.
+The twin cities have several different systems. CDA sectors, private societies such as DHA and Bahria Town, cooperative societies, Rawalpindi Cantonment and Chaklala Cantonment areas, and rural land under PLRA all follow different procedures. A lawyer who works in Islamabad and Rawalpindi knows which office to approach for each one.
+
+### What does a property lawyer check during due diligence?
+
+Due diligence means confirming that the seller owns the property, has the right to sell it, and that nothing will stop the transfer. The exact checks depend on whether the property is in a CDA sector, a private society or a revenue estate.
+- Title documents: registered sale deed, allotment letter, transfer letter or fard
+- Mutation (intiqal) history and the current record of rights
+- Approval status of the housing scheme with CDA or RDA
+- Society NOC, dues clearance and any restriction on transfer
+- Pending litigation, stay orders, mortgages or bank charges
+- Identity of the seller and validity of any power of attorney
+- Physical inspection to match the plot number, boundaries and possession
+
+### How does a property transfer work in Islamabad and Rawalpindi?
+
+A typical transfer has five stages: verification, agreement to sell with a token payment, payment of taxes, execution and registration of the sale deed (or society transfer), and mutation in the official record. In Islamabad CDA sectors, the transfer is processed by CDA. In private societies, the society's transfer office handles the change of ownership. For land recorded with the revenue department, the sale deed is registered before the Sub-Registrar and the mutation is entered in the land record.
+Taxes are paid before registration: advance tax on the seller and buyer under the Income Tax Ordinance 2001, and stamp duty and other charges under ICT or Punjab law. Filers usually pay lower withholding rates than non-filers, so it helps to check your status on the Active Taxpayers List first.
+
+### What property disputes do lawyers handle?
+
+Not every property matter is a purchase. Property lawyers in Islamabad and Rawalpindi also act in disputes, many of which go before the civil courts or tribunals.
+- Suits for specific performance of an agreement to sell
+- Possession and illegal dispossession cases
+- Partition of inherited property between heirs
+- Rent and eviction cases before the Rent Controller or tribunal
+- Cancellation of forged documents and fraudulent mutations
+- Disputes with housing societies over allotment or transfer
+
+### How do inheritance and property transfer work together?
+
+When a property owner dies, the property passes to the legal heirs under their personal law. Heirs normally need a succession certificate or letters of administration for movable assets, and an inheritance mutation or society transfer for immovable property. A property lawyer coordinates both, so the property can later be sold or divided without objections.
+
+### How much does a property lawyer charge?
+
+Verification and transfer work is often priced per transaction, while disputes are priced by stage. Government taxes and fees are separate from the lawyer's fee. MeraLawyer.pk agrees the fee before work starts and gives you a written list of expected government charges so there are no surprises on the day of registration.
+
+### How MeraLawyer.pk helps with property matters
+
+We match you with a property advocate who works with the relevant authority for your property, whether that is CDA, a private society, RDA or the PLRA service centres. You receive a verification report before you pay, help with the agreement and taxes, and support through registration and mutation. Overseas Pakistanis can complete most steps through a power of attorney.
+
 Q: How do I verify a property before buying in Rawalpindi or Islamabad?
 A: Ask for the fard (record of rights) or society allotment and transfer documents, then have a lawyer verify them with the land record office or housing society, check for pending litigation, and confirm the seller's identity.
 
@@ -95,6 +247,58 @@ Cases handled:
 - Tax notices: Replies to FBR notices and appeals.
 - Banking matters: Recovery suits and defence in banking courts.
 
+Key facts:
+- Companies in Pakistan are incorporated with the Securities and Exchange Commission of Pakistan (SECP) under the Companies Act 2017.
+- A single member company or private limited company can be registered online through SECP's e-services.
+- Businesses register for income tax with FBR; sales tax on goods is with FBR, while sales tax on services is with FBR for Islamabad and the Punjab Revenue Authority for Rawalpindi.
+- Trademarks are registered with the Intellectual Property Organization of Pakistan under the Trade Marks Ordinance 2001.
+- Registered companies must file annual returns and keep statutory records; missed filings can lead to penalties.
+
+### What does a corporate lawyer do for a business in Islamabad or Rawalpindi?
+
+A corporate lawyer helps you set up the right business structure, register it, and keep it compliant. For a new business that usually means choosing between a sole proprietorship, a partnership, a single member company or a private limited company, registering with SECP and FBR, and putting basic contracts in place. For an existing business it means annual filings, shareholder changes, contracts, employment documents and disputes.
+Good corporate advice is preventive. Clear shareholder agreements, properly drafted contracts and timely filings avoid most of the disputes and penalties that small businesses in the twin cities run into.
+
+### Which business structure should you choose?
+
+The right structure depends on liability, the number of owners, the need to raise investment and how clients or banks view the business. Your lawyer will explain the trade-offs, but the main options are summarised below.
+- Sole proprietorship: simplest to start, registered for tax with FBR; the owner is personally liable
+- Partnership: two or more partners; can be registered with the Registrar of Firms; partners share liability
+- Single member company (SMC): one owner with limited liability, registered with SECP
+- Private limited company: two or more members with limited liability; preferred for investment and contracts
+- Limited liability partnership (LLP): registered with SECP; combines partnership flexibility with limited liability
+
+### How is a company registered with SECP?
+
+Registration starts with reserving a company name on SECP's online system, followed by filing the incorporation documents, including the memorandum and articles of association and the details of directors and subscribers. Once SECP approves the application, it issues a certificate of incorporation. Through integration between SECP and FBR, the company also receives its National Tax Number.
+After incorporation, the company should open a bank account, register for sales tax if required, and set up its statutory registers. Your lawyer can also register the company with the relevant chamber of commerce in Islamabad or Rawalpindi if you need membership for trade or tenders.
+
+### What ongoing compliance does a company need?
+
+Incorporation is the start, not the end. Companies that miss filings face penalties and can find it hard to open accounts, bid for tenders or attract investors.
+- Annual return filing with SECP and holding the annual general meeting where required
+- Filing changes of directors, shareholding or registered office with SECP
+- Annual income tax returns and monthly or quarterly withholding statements with FBR
+- Monthly sales tax returns if registered with FBR or PRA
+- Maintaining statutory registers and minutes of meetings
+
+### Which contracts should every business have?
+
+Most business disputes come from verbal deals or copied templates. A corporate lawyer drafts contracts that reflect Pakistani law and your actual arrangement, including payment terms, termination, dispute resolution and confidentiality.
+- Shareholder or partnership agreement
+- Service and supply agreements with clients and vendors
+- Employment contracts and non-disclosure agreements
+- Commercial rent agreement for your office or shop
+- Software, franchise or distribution agreements where relevant
+
+### Can foreign or overseas investors register a company in Pakistan?
+
+Yes. Foreign nationals and overseas Pakistanis can be directors and shareholders of a Pakistani company. Some additional documents and security clearance may be required for foreign directors, and certain sectors have special rules. A corporate lawyer handles the process remotely, with documents attested where needed.
+
+### How MeraLawyer.pk helps businesses
+
+We offer fixed-fee packages for SECP registration, NTN and sales tax registration, trademark filing and annual compliance, and connect you with a corporate advocate for contracts and disputes. Whether your business is in Blue Area, the I-9 or I-10 industrial areas, Saddar or on Murree Road, you can keep your legal work in one place, with fees agreed upfront.
+
 Q: Do I need a lawyer to register a company?
 A: It is not legally required, but a lawyer or corporate consultant ensures your memorandum and articles of association, shareholding and filings are correct, which prevents problems with banks, FBR and investors later.
 
@@ -118,6 +322,49 @@ Cases handled:
 - Document attestation: MOFA, HEC, IBCC and embassy attestation.
 - Overseas tax return: Non-resident tax filing with FBR.
 - Police character certificate: For visa and employment abroad.
+
+Key facts:
+- Overseas Pakistanis can authorise a lawyer or relative in Pakistan through a power of attorney attested at a Pakistani embassy or consulate.
+- A power of attorney executed abroad usually needs stamp duty paid in Pakistan before it is used.
+- Most property, family and inheritance matters in Islamabad and Rawalpindi can be handled without travelling to Pakistan.
+- Before paying for property in Pakistan, overseas buyers should have the title and the housing scheme's approval verified independently.
+- Updates can be given by WhatsApp, email and video calls in Urdu or English.
+
+### What legal problems do overseas Pakistanis most often face?
+
+Distance creates risk. Property bought years ago may have been occupied, sold on the basis of a forged power of attorney, or caught in a family dispute. Inheritance can stall because heirs live in different countries. Family cases can be filed in Pakistan while one spouse lives abroad. An overseas Pakistani lawyer protects your interests in Islamabad and Rawalpindi while you live elsewhere.
+- Illegal occupation of a house or plot
+- Fraudulent sale or transfer using forged documents
+- Inheritance disputes and succession certificates
+- Divorce, khula, custody and maintenance cases filed in Pakistan
+- Buying property safely from abroad
+- Rent collection and tenant disputes
+
+### How do you appoint a lawyer from abroad?
+
+The usual route is a power of attorney. You sign it before the Pakistani embassy or consulate in your country of residence (or get a local notarisation followed by the required attestations). The original is sent to Pakistan, stamp duty is paid, and your lawyer or chosen attorney can then act for you before courts and authorities. A special power of attorney limited to a specific task is safer than a broad general power.
+Before you sign, have your lawyer draft or review the wording. A badly drafted power of attorney is one of the most common causes of property fraud against overseas Pakistanis.
+
+### How can you protect your property in Islamabad or Rawalpindi from abroad?
+
+Simple steps reduce risk considerably. Keep certified copies of your title documents outside Pakistan, check the record periodically through the relevant authority, avoid giving general powers of attorney, and make sure tenants have written, registered agreements. In Islamabad and Rawalpindi, tenants should also be registered with the police under the applicable law.
+If your property has been occupied or sold without your consent, act quickly. Your lawyer can file a complaint, seek an injunction to stop further transfers, and start civil or criminal proceedings as appropriate. Overseas Pakistanis in Punjab can also approach the Overseas Pakistanis Commission for facilitation.
+
+### Can a family case in Pakistan be handled while you live abroad?
+
+Yes. A lawyer can file or defend khula, divorce, maintenance and custody cases through a power of attorney, and many hearings proceed without your personal presence. For evidence, the court may require you to appear in person, record evidence through a commission, or use other arrangements. Your lawyer will plan this early, so you can book travel only when it is truly necessary.
+
+### How does inheritance work when heirs live in different countries?
+
+Each heir can authorise a lawyer or a relative in Pakistan through a power of attorney. The lawyer then applies for a succession certificate or letters of administration, completes inheritance mutation or society transfer, and, if the heirs agree, arranges sale and distribution. When heirs disagree, partition proceedings may be needed. Clear communication with all heirs from the start avoids most delays.
+
+### How will you receive updates and documents?
+
+We agree a communication plan at the start: updates by WhatsApp after each hearing, scanned copies of orders and documents by email, and video calls when decisions are needed. Consultations are available in Urdu or English and are scheduled to suit your time zone in the UK, Europe, the Gulf or North America.
+
+### How MeraLawyer.pk helps overseas Pakistanis
+
+We match you with an advocate in Islamabad or Rawalpindi who regularly handles overseas clients, prepare the power of attorney wording, guide you through attestation, and manage the case locally with fees agreed before work starts.
 
 Q: Can I fight a property case in Pakistan while living abroad?
 A: Yes. You authorise a lawyer or a trusted relative through a power of attorney attested at the Pakistani embassy or consulate, and your lawyer appears in court for you.
@@ -150,6 +397,52 @@ Documents required:
 - Shareholding percentages
 
 Laws: Companies Act 2017; Companies (Incorporation) Regulations 2017
+
+Key facts:
+- Companies are registered with the Securities and Exchange Commission of Pakistan (SECP) under the Companies Act 2017.
+- The process is online: name reservation, filing incorporation documents, and issue of the certificate of incorporation.
+- Through SECP and FBR integration, a newly incorporated company receives its National Tax Number.
+- A single member company needs one member and a nominee; a private limited company needs at least two members.
+- Foreign nationals and overseas Pakistanis can be directors and shareholders, subject to additional documents.
+
+### Which type of company should you register?
+
+Most small and medium businesses in Islamabad and Rawalpindi choose either a single member company or a private limited company. Both give limited liability, which protects your personal assets from business debts. The choice depends on how many owners there are and how you plan to grow.
+- Single member company (SMC): one owner, one nominee director; good for freelancers, consultants and solo founders
+- Private limited company: two or more members; best for partners, investors and companies bidding for contracts
+- Limited liability partnership (LLP): suits professional firms that want partnership flexibility with limited liability
+- Public or non-profit (section 42) companies: have extra requirements; ask us before choosing these
+
+### How does SECP company registration work step by step?
+
+First, choose two or three possible names and check that they are not identical or too similar to existing companies or trademarks. The name is reserved on SECP's online system. Next, the incorporation application is filed with the memorandum and articles of association, details of directors and subscribers, their CNICs or passports, and the registered office address. SECP examines the application and, if it is complete, issues the certificate of incorporation.
+After incorporation, the company receives its NTN through the SECP and FBR integration. The next steps are opening a corporate bank account, registering for sales tax if your business requires it, and setting up the statutory registers that every company must keep.
+
+### What documents do you need to register a company?
+
+Registration is mostly online, so scanned copies are usually sufficient.
+- CNIC (or passport for foreigners) of every director and shareholder
+- Proposed company names and a short description of business activities
+- Registered office address in Islamabad, Rawalpindi or elsewhere, with proof
+- Email address and mobile number of each director
+- Shareholding structure and paid-up capital
+- For a single member company: CNIC and consent of the nominee
+
+### Should the registered office be in Islamabad or Rawalpindi?
+
+Both cities work well. The registered office determines which SECP company registration office oversees the company and where official notices are sent. Many businesses register in Islamabad, close to SECP's head office in Blue Area and the federal tax offices, while others register in Rawalpindi where their shop or office is located. For sales tax on services, the location of the business matters: services from Islamabad fall under FBR's Islamabad services law, and services from Rawalpindi under the Punjab Revenue Authority.
+
+### What compliance does a company need after registration?
+
+Every registered company must keep its records and filings up to date. Missing annual returns or changes leads to penalties and can block bank accounts or tender bids. Typical obligations are the annual return with SECP, notifying changes of directors, shareholders or address, filing annual income tax returns with FBR, monthly withholding statements, and monthly sales tax returns if registered.
+
+### How long does company registration take?
+
+Name reservation and incorporation are usually completed within a few working days if the documents are correct and the name is available. Delays happen when names are rejected, documents are incomplete or a foreign director needs security clearance. We check these points before filing to avoid rejections.
+
+### How MeraLawyer.pk registers your company
+
+We advise on the right structure, check name availability, prepare the memorandum and articles, file with SECP, and hand over the incorporation certificate and NTN. We can also register you for sales tax, file a trademark for your brand name, and handle annual compliance. The fee is agreed before work starts, and SECP fees are charged at actual cost.
 
 Q: How long does company registration take in Pakistan?
 A: When documents are complete, SECP often processes online incorporation within a few working days. Name objections or missing documents add time.
@@ -184,6 +477,55 @@ Documents required:
 
 Laws: Income Tax Ordinance 2001; Income Tax Rules 2002
 
+Key facts:
+- Income tax returns are filed with the Federal Board of Revenue (FBR) through its IRIS portal under the Income Tax Ordinance 2001.
+- Individuals usually also file a wealth statement under section 116, listing assets, liabilities and expenses.
+- The deadline for individuals is usually 30 September for the tax year ending 30 June; FBR sometimes extends it.
+- Filing on time places you on the Active Taxpayers List, which lowers withholding tax on property, vehicles and banking.
+- Late filing can lead to penalties and removal from the Active Taxpayers List until you file.
+
+### Who must file an income tax return in Pakistan?
+
+You must file if your taxable income exceeds the minimum taxable threshold, and in several other situations set out in the Income Tax Ordinance, for example if you own certain property or a vehicle above a specified engine size, or hold an industrial or commercial electricity connection with high bills. Even when filing is not mandatory, many people file voluntarily to join the Active Taxpayers List and pay lower withholding taxes.
+- Salaried individuals whose income exceeds the threshold
+- Business owners, shopkeepers and freelancers
+- Landlords earning rental income
+- People buying or selling property or vehicles who want filer rates
+- Company directors and members of associations of persons
+- Overseas Pakistanis with income or assets in Pakistan
+
+### What is the Active Taxpayers List and why does it matter?
+
+The Active Taxpayers List (ATL) is FBR's list of people who have filed their return for the latest tax year. Being on the ATL means you pay lower withholding tax on many transactions, including property purchase and sale, vehicle registration, some bank transactions and dividends. The difference between filer and non-filer rates is often much larger than the cost of filing, which is why many people in Islamabad and Rawalpindi file even when their taxable income is low.
+
+### How is an income tax return filed with FBR?
+
+Filing happens online on IRIS. The return reports your income from salary, business, property, capital gains and other sources, the tax already deducted at source, and any tax payable or refundable. Individuals also file a wealth statement showing assets and liabilities at the year end, and a reconciliation showing how wealth changed during the year.
+The wealth reconciliation is where most problems arise. Unexplained increases in wealth can trigger notices, so it is important to declare inheritances, gifts and loans properly. A tax lawyer or consultant prepares the return and wealth statement together so they match.
+
+### What documents are needed to file a tax return?
+
+Gather these for the tax year you are filing.
+- CNIC and IRIS login, or details to register on IRIS
+- Salary certificate and tax deduction certificate from the employer
+- Bank statements and withholding tax certificates from banks
+- Rental agreements and rent received, if any
+- Property and vehicle documents, including purchase and sale details
+- Utility bills, school fees and other major expenses
+- Business records, invoices and expenses for business income
+
+### What happens if you file late or receive an FBR notice?
+
+Late filing can attract a penalty and keeps you off the Active Taxpayers List until you file, which means higher withholding taxes in the meantime. FBR may also issue notices asking you to file, explain your wealth, or respond to an audit. Do not ignore notices; reply within the time given or ask for more time. A lawyer can respond on your behalf and represent you before the Commissioner Inland Revenue at the Regional Tax Office in Islamabad or Rawalpindi.
+
+### Can overseas Pakistanis and freelancers file returns?
+
+Yes. Overseas Pakistanis with income or assets in Pakistan often file to keep filer status for property transactions. Freelancers earning through foreign remittances have special considerations, including the treatment of export of IT services. We prepare returns remotely and confirm the right treatment for your income.
+
+### How MeraLawyer.pk files your return
+
+Send us your documents by WhatsApp or email. We register you on IRIS if needed, prepare the return and wealth statement, review them with you, and file before the deadline. You receive copies of the filed return and acknowledgement. The fee is agreed upfront.
+
 Q: What is the deadline for filing income tax returns?
 A: The due date for individuals is normally 30 September for the tax year ending 30 June. The FBR sometimes extends it, so check the current year's announcement.
 
@@ -217,6 +559,54 @@ Documents required:
 
 Laws: Income Tax Ordinance 2001, section 181
 
+Key facts:
+- NTN (National Tax Number) registration is done online with the Federal Board of Revenue through the IRIS portal.
+- For individuals, the CNIC number is used as the NTN once registered on IRIS.
+- Companies receive an NTN on incorporation through SECP and FBR integration; partnerships and AOPs register separately.
+- Registration needs a mobile number and email registered in the applicant's own name.
+- Having an NTN is the first step to filing returns and joining the Active Taxpayers List.
+
+### Who needs an NTN in Pakistan?
+
+Anyone who earns taxable income, runs a business, wants to file an income tax return, or needs to be on the Active Taxpayers List needs to be registered with FBR. Banks, government departments, large companies and tender authorities often ask for an NTN before they will do business with you. In Islamabad and Rawalpindi, landlords, shopkeepers, freelancers, consultants and contractors are among the most frequent applicants.
+- Salaried individuals who want to file returns
+- Sole proprietors, shopkeepers and traders
+- Freelancers and IT service providers
+- Partnerships and associations of persons (AOPs)
+- Landlords with rental income
+- Contractors bidding for government or corporate work
+
+### How does NTN registration work for an individual?
+
+An individual registers on IRIS using their CNIC, a mobile number registered in their own name, and an email address. FBR sends verification codes to the phone and email, and after verification the person's CNIC becomes their NTN. A business individual also adds business details such as the business name, address and activity.
+The most common problems are SIMs not registered in the applicant's name, mismatched information, and incorrect business activity codes. Getting these right at registration avoids trouble with returns and sales tax later.
+
+### How does a partnership or AOP get an NTN?
+
+A partnership or association of persons is registered as a separate taxpayer. The principal officer applies on IRIS with the partnership deed, details and CNICs of all partners, and proof of the business address. FBR may also ask for a bank account certificate. Once approved, the firm receives its own NTN, which is used for its returns and bank account.
+
+### What documents are needed for NTN registration?
+
+Requirements depend on the type of taxpayer.
+- CNIC of the individual, or of all partners for a firm
+- Mobile number and email address in the applicant's name
+- Business name, address and principal activity
+- Proof of business premises, such as a rent agreement or ownership document
+- Utility bill of the business premises
+- Partnership deed for a firm or AOP
+
+### Is an NTN the same as sales tax registration?
+
+No. An NTN registers you for income tax. Sales tax registration (STRN) is a separate process for businesses that supply taxable goods or services above the thresholds set by law. Goods are registered with FBR; services in Islamabad are registered with FBR, and services in Rawalpindi with the Punjab Revenue Authority. Many businesses need both.
+
+### What happens after you get an NTN?
+
+An NTN does not by itself put you on the Active Taxpayers List. You must file your income tax return and wealth statement for the relevant tax year. Businesses may also need to file withholding statements if they deduct tax from payments to employees or suppliers. We can set up a simple yearly calendar so you do not miss deadlines.
+
+### How MeraLawyer.pk helps
+
+We register individuals, sole proprietors and firms on IRIS, fix registration errors, and link your NTN to filing your first return. Send us your details by WhatsApp from anywhere in Islamabad, Rawalpindi or abroad, and we will confirm the documents and the fee before starting.
+
 Q: Is my CNIC number my NTN?
 A: For individuals registered on IRIS, yes: the CNIC number serves as the NTN.
 
@@ -246,6 +636,54 @@ Documents required:
 - Electricity meter details for manufacturers
 
 Laws: Sales Tax Act 1990; Islamabad Capital Territory (Tax on Services) Ordinance 2001; Punjab Sales Tax on Services Act 2012
+
+Key facts:
+- Sales tax on goods is registered with the Federal Board of Revenue under the Sales Tax Act 1990.
+- Sales tax on services provided from Islamabad is administered by FBR under the Islamabad Capital Territory (Tax on Services) Ordinance 2001.
+- Sales tax on services provided from Rawalpindi is administered by the Punjab Revenue Authority under the Punjab Sales Tax on Services Act 2012.
+- Registration typically requires biometric verification and may involve verification of business premises.
+- Registered persons must file monthly sales tax returns, even when there is no taxable activity in a month.
+
+### Who needs sales tax registration?
+
+You need sales tax registration if you manufacture, import, supply or deal in taxable goods above the thresholds set by law, or provide taxable services. Many businesses also register because large customers, government departments and tenders require an STRN from their suppliers. Retailers in certain categories must register and integrate their point of sale systems with FBR.
+- Manufacturers and importers
+- Wholesalers, distributors and certain retailers
+- Service providers such as consultants, IT firms, contractors and advertisers
+- Businesses supplying to government departments or large companies
+- Restaurants, salons and other service businesses in the taxable categories
+
+### FBR, ICT or PRA: where should you register?
+
+This is where many businesses in the twin cities go wrong. Sales tax on goods is a federal tax collected by FBR wherever you are located. Sales tax on services is different: it depends on where the service is provided from. A service business operating from Islamabad registers for services tax with FBR under the Islamabad Capital Territory services law, while a service business operating from Rawalpindi registers with the Punjab Revenue Authority.
+Some businesses supply both goods and services, or operate in both cities, and need more than one registration. We review your business model and tell you exactly which registrations apply.
+
+### How does FBR sales tax registration work?
+
+The applicant must first be registered for income tax on IRIS. The sales tax registration application is then filed on IRIS with business details, bank account information and details of the premises. The applicant, or the directors of a company, complete biometric verification at a designated facility. FBR may verify the business premises before activating the registration. Once approved, the business receives its sales tax registration and becomes liable to file monthly returns.
+
+### How does Punjab Revenue Authority registration work?
+
+For services provided from Rawalpindi, registration is done online on PRA's portal. The applicant provides business details, CNICs, bank information and proof of premises. After registration, the business files monthly returns with PRA and charges the applicable services tax on its invoices.
+
+### What documents are needed for sales tax registration?
+
+Keep these ready before applying.
+- NTN and IRIS login details
+- CNICs of the owner, partners or directors
+- Business bank account certificate
+- Proof of business premises: ownership document or rent agreement
+- Utility bill of the premises
+- Photographs of the premises and signboard where required
+- Company incorporation documents or partnership deed
+
+### What are your obligations after registration?
+
+After registration you must issue proper sales tax invoices, keep records, and file monthly returns by the due date, even for months with no sales. Late or missing returns attract penalties and can lead to suspension of registration, which blocks input tax claims and may affect your customers. A monthly filing service keeps you compliant.
+
+### How MeraLawyer.pk helps
+
+We determine whether you need FBR, ICT services or PRA registration, prepare and file the applications, guide you through biometric verification, and can file your monthly returns afterwards. The fee is agreed upfront.
 
 Q: Do I register with FBR or PRA?
 A: For goods, the FBR. For services, it depends on where the service is provided: Islamabad services fall under ICT (administered by FBR), Punjab services under the PRA.
@@ -277,6 +715,59 @@ Documents required:
 
 Laws: Trade Marks Ordinance 2001; Trade Marks Rules 2004
 
+Key facts:
+- Trademarks in Pakistan are registered with the Intellectual Property Organization of Pakistan (IPO-Pakistan) under the Trade Marks Ordinance 2001.
+- Goods and services are classified into international classes, and a separate filing is needed for each class.
+- After examination, an accepted mark is advertised in the Trade Marks Journal, and third parties can oppose it within the time allowed by law.
+- A registered trademark is valid for ten years and can be renewed for further ten-year periods.
+- A search before filing reduces the risk of objection or opposition.
+
+### Why should you register your trademark?
+
+Your brand name and logo are business assets. Registration gives you the exclusive right to use the mark for the registered goods or services in Pakistan and a stronger legal basis to stop others from copying it. Without registration you may still have rights through use, but proving and enforcing them is harder, slower and more expensive. Registration also helps with online marketplaces, franchising, investment and selling the business later.
+
+### What can be registered as a trademark?
+
+A trademark is any sign that distinguishes your goods or services from those of others. It must be distinctive and must not be identical or confusingly similar to an existing mark in the same class.
+- Brand names and business names used as brands
+- Logos and stylised words
+- Slogans and taglines, if distinctive
+- Combinations of words, colours and devices
+- Service marks for service businesses
+
+### What is the trademark registration process in Pakistan?
+
+The process at IPO-Pakistan has several stages, and it is normal for it to take many months from filing to registration.
+- Search: check existing marks in the relevant class
+- Filing: submit the application with the mark, class and specification of goods or services
+- Examination: the registry examines distinctiveness and conflicts and may raise objections
+- Reply to objections, if any, in writing or at a hearing
+- Acceptance and advertisement in the Trade Marks Journal
+- Opposition period for third parties
+- Registration certificate issued if there is no successful opposition
+
+### How do you choose the right class?
+
+Pakistan follows the international classification of goods and services. A clothing brand files in the class for clothing; a restaurant files in the class for food and drink services; a software company may need classes for software and for IT services. Filing in the wrong class gives no protection where you need it, while filing in too many classes adds cost. Your lawyer will match your business to the right classes.
+
+### What documents are needed?
+
+Trademark filing needs only a few documents.
+- Applicant's name and address (individual, firm or company)
+- CNIC of the individual or authorised signatory
+- Company incorporation certificate or partnership deed, if applicable
+- The mark: word, or a clear image of the logo
+- Description of goods or services and date of first use, if already in use
+- Authorisation in favour of the lawyer or agent
+
+### What happens if someone copies your trademark?
+
+If your mark is registered, you can send a legal notice, oppose a conflicting application, and file a suit for infringement seeking an injunction and damages. If it is not yet registered, you may still have remedies for passing off based on prior use. Act quickly when you notice copying, and keep evidence such as invoices, advertisements and online listings that show your earlier use.
+
+### How MeraLawyer.pk helps
+
+We search the register, advise on classes, file the application with IPO-Pakistan, respond to objections, and track your mark to registration. We also file oppositions and send infringement notices for businesses in Islamabad, Rawalpindi and across Pakistan. The fee is agreed before filing.
+
 Q: How long is a trademark valid in Pakistan?
 A: Ten years from the filing date, renewable for further ten-year periods.
 
@@ -304,6 +795,56 @@ Documents required:
 - Amount owed or action demanded
 
 Laws: Code of Civil Procedure 1908, section 80 (notices to government); Defamation Ordinance 2002; Contract Act 1872
+
+Key facts:
+- A legal notice is a formal written demand sent by a lawyer before starting court proceedings.
+- A suit against the government or a public officer generally needs prior notice under section 80 of the Code of Civil Procedure 1908.
+- A claim for defamation under the Defamation Ordinance 2002 requires a notice to the defendant before filing.
+- Notices are usually sent by registered post or courier with acknowledgement, and copies are kept as evidence.
+- A reply to a legal notice should be sent within the time it gives, usually after taking legal advice.
+
+### What is a legal notice and when should you send one?
+
+A legal notice tells the other party, in formal terms, what you claim, why you are entitled to it, and what you will do if they do not comply within a stated time. It is often the most cost-effective step in a dispute: many matters settle after a well-drafted notice because the other side sees that you are serious and have legal advice.
+In some cases a notice is legally required before a suit can be filed, for example against the government under section 80 CPC, or for defamation under the Defamation Ordinance 2002. In other cases it is not mandatory but is good practice and helps show the court that you tried to resolve the matter first.
+
+### What situations call for a legal notice?
+
+We draft notices for individuals and businesses in Islamabad and Rawalpindi in situations such as these.
+- Recovery of money, unpaid invoices or loans
+- Dishonoured cheques
+- Breach of a rent, sale or service agreement
+- Eviction of a tenant or recovery of unpaid rent
+- Defamation or false allegations
+- Employment disputes, unpaid salary or wrongful termination
+- Consumer complaints against sellers or service providers
+- Harassment or misuse of personal information
+
+### What should a legal notice contain?
+
+A notice must be precise. Vague threats are easy to ignore; a clear claim with facts and dates is not. Your lawyer will include the key elements below and keep the tone firm and professional.
+- Names and addresses of the sender and recipient
+- A clear summary of the facts with dates
+- The legal basis of the claim
+- The specific demand: payment, action or stopping an activity
+- A deadline for compliance
+- The consequences of non-compliance, such as a suit or complaint
+
+### How is a legal notice sent?
+
+The notice is printed on the lawyer's letterhead, signed, and sent by registered post with acknowledgement due, courier with tracking, or both. Where appropriate, a copy can also be sent by email or WhatsApp. Proof of dispatch and delivery is kept, because the court may later ask whether the notice was served.
+
+### What should you do if you receive a legal notice?
+
+Do not ignore it, and do not reply in anger. Read the deadline, collect your documents, and speak to a lawyer. A careful reply can deny incorrect claims, put your own version on record and sometimes open the door to settlement. What you write in a reply may be used later in court, so it should be drafted with care.
+
+### What happens if the other party does not respond?
+
+If the deadline passes without compliance, you can proceed with the action stated in the notice, such as a civil suit for recovery, a summary suit on a negotiable instrument, a complaint, or a criminal case where the facts support it. Your lawyer will advise which forum in Islamabad or Rawalpindi is appropriate and what evidence is needed.
+
+### How MeraLawyer.pk helps
+
+Send us the facts and documents by WhatsApp or the form on this page. A lawyer drafts the notice, reviews it with you, and dispatches it with proof of delivery. If you have received a notice, we draft a reply. Fees are agreed before work starts.
 
 Q: Is a legal notice compulsory before filing a case?
 A: Not always. It is required before suing the government (section 80 CPC) and before a defamation suit, and it is strongly advisable in most money and contract disputes.
@@ -333,6 +874,58 @@ Documents required:
 
 Laws: Contract Act 1872; Stamp Act 1899; Registration Act 1908; Partnership Act 1932
 
+Key facts:
+- Contracts in Pakistan are governed mainly by the Contract Act 1872.
+- Most agreements must be written on stamp paper of the correct value under the Stamp Act 1899; e-stamp paper is used in Islamabad and Punjab.
+- Rent agreements in Islamabad fall under the Islamabad Rent Restriction Ordinance 2001; in Rawalpindi, under the Punjab Rented Premises Act 2009.
+- Some documents, such as certain leases and sale deeds, must be registered with the Sub-Registrar under the Registration Act 1908.
+- A clear dispute-resolution clause can save months of litigation if something goes wrong.
+
+### Why should a lawyer draft your agreement instead of a template?
+
+Templates copied from the internet are written for other countries or other deals. They often miss Pakistani requirements such as the correct stamp duty, registration, the right court or arbitration forum, and the specific obligations of your arrangement. When a dispute arises, the court reads what is written, not what the parties intended. A lawyer-drafted agreement records your actual deal clearly enough that a judge, or the other party, cannot misread it.
+A good agreement also prevents disputes in the first place. When payment dates, deliverables, penalties and termination rights are spelled out, both sides know what to expect.
+
+### Which agreements do people in Islamabad and Rawalpindi most often need?
+
+We draft and review agreements for individuals, landlords, tenants, families and businesses. The most common are listed below.
+- Rent and lease agreements for houses, flats, shops and offices
+- Agreement to sell (bayana) for property
+- Partnership deeds and shareholder agreements
+- Service, supply and vendor contracts
+- Employment contracts and non-disclosure agreements
+- Family settlement deeds and gift (hiba) documentation
+- Loan agreements and acknowledgments of debt
+
+### What should every agreement include?
+
+Whatever the type of agreement, certain clauses do most of the work when a problem arises. Your lawyer will tailor these to your deal.
+- Full names, CNIC numbers and addresses of the parties
+- A precise description of the property, goods or services
+- Price, payment schedule and method of payment
+- Duration, renewal and termination rights
+- What happens on breach, including penalties or forfeiture of advance
+- Dispute resolution: courts, mediation or arbitration, and the city
+- Signatures of parties and two witnesses, with their CNICs
+
+### What are the special rules for rent agreements in the twin cities?
+
+Tenancy law differs between the two cities. In Islamabad, rent matters are governed by the Islamabad Rent Restriction Ordinance 2001 and disputes go to the Rent Controller. In Rawalpindi, the Punjab Rented Premises Act 2009 applies; it requires the tenancy agreement to be in writing and contemplates registration with the Rent Registrar, and disputes go to the Rent Tribunal.
+In both cities, landlords are also expected to give tenant details to the local police under the applicable tenant-registration rules. Missing this step can cause problems for the landlord, so your lawyer will remind you to complete it.
+
+### Does an agreement need to be on stamp paper or registered?
+
+Most agreements need stamp duty paid under the Stamp Act 1899, usually through e-stamp paper. The amount depends on the type and value of the document. An unstamped or under-stamped document can still be admitted in evidence in some cases, but only after paying the duty and a penalty, so it is better to stamp it correctly at the start.
+Registration is a separate question. Sale deeds, gifts of immovable property and leases above certain terms need registration with the Sub-Registrar. An agreement to sell is usually not registered, but a well-drafted one protects the buyer if the seller backs out.
+
+### How long does it take to prepare an agreement?
+
+A standard rent or service agreement can usually be drafted within one to two working days once we have the details. Complex shareholder or supply agreements take longer because they need discussion between the parties. Reviewing an agreement someone else has drafted is usually quicker, and we will mark the risky clauses and suggest changes.
+
+### How MeraLawyer.pk helps
+
+Send us the details of your deal by WhatsApp or the form on this page. A lawyer drafts or reviews the agreement, explains each clause in plain language, and advises on stamp duty and registration in Islamabad or Rawalpindi. The fee is agreed before work starts.
+
 Q: Does a rent agreement need to be registered?
 A: Leases for more than one year must be registered under the Registration Act 1908. Shorter agreements are commonly made on stamp paper, and some areas also require tenant registration with police.
 
@@ -361,6 +954,54 @@ Documents required:
 - Written permission of the arbitration council, if the man has an existing wife
 
 Laws: Muslim Family Laws Ordinance 1961; Child Marriage Restraint Act 1929 (and ICT Child Marriage Restraint Act 2025)
+
+Key facts:
+- In Pakistan, a court marriage is a nikah performed with the consent of both adults and registered under the Muslim Family Laws Ordinance 1961.
+- Both parties must be of legal marriageable age; in Islamabad, the minimum age is 18 for both under the ICT Child Marriage Restraint Act 2025.
+- The nikah is registered by a licensed Nikah Registrar and then with the Union Council, after which NADRA can issue a marriage registration certificate.
+- A free-will statement or affidavit of the bride and groom is commonly prepared to record consent.
+- Two adult Muslim witnesses are needed for the nikah.
+
+### What does court marriage mean in Pakistan?
+
+The phrase court marriage is commonly used, but the marriage itself is not performed by a judge. It is a nikah conducted with the free consent of both adults, usually arranged through a lawyer who prepares the documents, arranges a licensed Nikah Registrar and witnesses, and makes sure the marriage is properly registered. Lawyers often prepare affidavits of free will so that consent is clearly documented.
+Couples choose this route when they want a simple ceremony, when families are not involved, or when they want to be sure the paperwork is correct from the start.
+
+### Who can have a court marriage in Islamabad or Rawalpindi?
+
+Any two Muslim adults who are legally eligible to marry each other can have a nikah. Both must consent freely. Legal age requirements apply: in Islamabad, the minimum age for marriage is 18 for both parties under the ICT law enacted in 2025. In Rawalpindi, Punjab law applies, and your lawyer will confirm the current requirement. Marriages involving a non-Muslim party, or a second marriage by a husband, have additional legal requirements.
+
+### What is the court marriage procedure step by step?
+
+The process is straightforward when documents are ready. It can often be completed in a single day, with registration following.
+- Consultation and document check by the lawyer
+- Preparation of affidavits or free-will statements of both parties
+- Nikah performed by a licensed Nikah Registrar with two adult Muslim witnesses
+- Completion and signing of the nikah nama, including the haq mehr and delegated rights
+- Registration of the nikah with the Union Council
+- Application for the NADRA marriage registration certificate
+
+### What documents are needed for court marriage?
+
+Keep originals and copies ready on the day.
+- Original CNICs of the bride and groom
+- CNICs of two adult Muslim witnesses
+- Passport-size photographs of both parties
+- Divorce or death certificate if either party was previously married
+- Permission of the Arbitration Council if the husband has an existing wife
+- Passport for foreign nationals or overseas Pakistanis
+
+### Why do the nikah nama clauses matter?
+
+The nikah nama is a legal document, and some of its columns affect your rights for years. The amount and form of haq mehr, whether it is prompt or deferred, and whether the wife is given the right of talaq (delegated divorce) are all recorded on it. Many couples sign without reading these columns. Your lawyer will explain each one so that both parties make informed choices.
+
+### Is a court marriage legally valid and safe?
+
+Yes. A nikah performed with free consent of adult parties and registered with the Union Council is legally valid. Registration is important: it provides official proof of the marriage for NADRA records, passports, visas and inheritance. If either party faces threats from family because of the marriage, a lawyer can advise on protection, including applications to the court.
+
+### How MeraLawyer.pk helps with court marriage
+
+We arrange the lawyer, Nikah Registrar and documentation in Islamabad or Rawalpindi, explain the nikah nama clearly, and complete registration with the Union Council so you can obtain the NADRA certificate. The fee is agreed before the day, and everything is handled discreetly.
 
 Q: Can court marriage be done on the same day?
 A: The nikah and affidavits can usually be completed the same day. Union Council registration and the NADRA certificate follow afterwards.
@@ -392,6 +1033,54 @@ Documents required:
 - Proof of dowry articles, if claiming them
 
 Laws: Family Courts Act 1964; Dissolution of Muslim Marriages Act 1939; Muslim Family Laws Ordinance 1961
+
+Key facts:
+- Khula is the dissolution of marriage at the wife's request through the Family Court.
+- It is filed under the Family Courts Act 1964 and the Dissolution of Muslim Marriages Act 1939, usually where the wife ordinarily resides.
+- If reconciliation fails at the pre-trial stage, the court can pass a khula decree under section 10(4) of the Family Courts Act.
+- The court may direct the wife to return haq mehr or other benefits received from the husband.
+- After the decree, the Union Council or Arbitration Council process is completed, and a divorce certificate can then be obtained from NADRA.
+
+### What is khula and how is it different from divorce?
+
+Khula is the right of a Muslim wife to seek dissolution of marriage through the court. Talaq (divorce) is pronounced by the husband, while khula is granted by the Family Court on the wife's application. A wife can also seek dissolution on specific grounds under the Dissolution of Muslim Marriages Act 1939, such as cruelty or failure to maintain, and in some cases the nikah nama gives her the delegated right of talaq, which avoids court proceedings altogether.
+A family lawyer will check the nikah nama first, because the delegated right of divorce, if granted, may offer a quicker route.
+
+### How does the khula process work in Islamabad and Rawalpindi?
+
+The suit is filed in the Family Court where the wife ordinarily resides: the Family Courts in Islamabad for residents of the capital's sectors and suburbs, and the Family Courts in Rawalpindi for residents of the city and cantonment areas. The court issues summons to the husband, who may file a written statement. At the pre-trial hearing, the judge attempts reconciliation. If reconciliation fails, the court can pass a decree of khula.
+If the husband does not appear despite proper service, the court can proceed against him. After the decree, a certified copy is sent to the Chairman of the Union Council, and the khula becomes effective after the period prescribed under the Muslim Family Laws Ordinance 1961.
+- Consultation and review of the nikah nama
+- Drafting and filing of the khula suit with supporting documents
+- Service of summons on the husband
+- Pre-trial reconciliation hearing
+- Khula decree if reconciliation fails
+- Union Council process and NADRA divorce certificate
+
+### What documents are needed to file for khula?
+
+Copies are enough to start; the lawyer will tell you which originals the court needs.
+- Nikah nama and NADRA marriage registration certificate, if any
+- CNIC of the wife and a copy of the husband's CNIC if available
+- Husband's current address for service of summons
+- Details of haq mehr, dowry articles and gifts
+- B-forms or birth certificates of children, if custody or maintenance is also claimed
+
+### Can you claim maintenance, dowry and custody with khula?
+
+Yes. Claims for maintenance of the wife and children, recovery of dowry articles, and custody can be combined with the khula suit or filed alongside it. Combining claims saves time and court costs. However, in khula the court may ask the wife to return the haq mehr or benefits she received, so your lawyer will advise on the overall financial position before you file.
+
+### How long does khula take in Pakistan?
+
+Section 12-A of the Family Courts Act 1964 directs family courts to decide cases within six months of the defendant's first appearance. In practice, a khula decree can be passed at the pre-trial stage when reconciliation fails, which is often faster than a full trial. The overall time depends on service of summons, adjournments, and whether other claims are contested. After the decree, the Union Council process adds about three months before the certificate is issued.
+
+### Can a wife living abroad file for khula in Pakistan?
+
+Yes. A wife living abroad can authorise a lawyer through a power of attorney attested at the Pakistani embassy or consulate. Jurisdiction rules still apply, so your lawyer will confirm which court can hear the case. Some hearings may require your presence or special arrangements, and the lawyer will tell you early if travel is needed.
+
+### How MeraLawyer.pk helps with khula
+
+We connect you with a family advocate who regularly appears in the Family Courts of Islamabad or Rawalpindi. The matter is handled discreetly, consultations are available in Urdu or English, the fee is agreed before filing, and you receive an update after every hearing.
 
 Q: How long does khula take in Pakistan?
 A: The court hearing stage can be quick if the husband does not contest. After the decree, the Union Council process takes about 90 days before the divorce becomes effective.
@@ -427,6 +1116,49 @@ Documents required:
 
 Laws: Succession Act 1925; Letters of Administration and Succession Certificates Act 2020 (ICT); Punjab Letters of Administration and Succession Certificates Act 2021
 
+Key facts:
+- A succession certificate allows legal heirs to collect a deceased person's movable assets such as bank balances, shares and pensions.
+- Letters of administration deal with the estate more broadly, including immovable property in some cases.
+- In Islamabad, NADRA's Succession Facilitation Units issue certificates for uncontested cases under the Letters of Administration and Succession Certificates Act 2020.
+- Contested matters, and cases outside the NADRA route, are decided by the civil court under the Succession Act 1925 or the applicable provincial law.
+- Shares of heirs are determined according to the personal law of the deceased.
+
+### What is a succession certificate and why do heirs need one?
+
+When a person dies, banks, companies and government departments will not release their money or assets to the family without legal proof of who the heirs are. A succession certificate is that proof for movable assets. It names the legal heirs and their shares, and it authorises them to collect debts and securities such as bank balances, savings certificates, shares, insurance claims and pension arrears.
+Without it, accounts stay frozen, and over time assets can be lost or become harder to recover. Starting the process soon after the death saves time and family disputes.
+
+### How do you get a succession certificate in Islamabad?
+
+For uncontested cases in Islamabad, the heirs can apply to NADRA's Succession Facilitation Unit under the Letters of Administration and Succession Certificates Act 2020. NADRA verifies the family tree from its records, the heirs give consent, a public notice process is followed, and the certificate is issued if no objection is raised. This is usually much faster than court proceedings.
+If any heir objects, if the family tree in NADRA's records is incomplete, or if the matter is otherwise disputed, the case goes to the civil court. A lawyer helps decide the right route at the start.
+
+### How do you get a succession certificate in Rawalpindi?
+
+In Rawalpindi, the route depends on the current Punjab law and whether all heirs agree. Contested matters are decided by the civil court under the Succession Act 1925. The court issues notice to the heirs, publishes a proclamation in a newspaper, hears any objections, and then grants the certificate, usually requiring a surety bond. Your lawyer will advise whether a quicker administrative route is available for your case.
+
+### What documents are needed?
+
+Collect as many of these as possible before applying.
+- Death certificate of the deceased issued through NADRA or the Union Council
+- CNIC of the deceased and CNICs or B-forms of all legal heirs
+- Family registration certificate (FRC) from NADRA
+- Details of assets: bank accounts, certificates, shares, insurance and pension
+- Nikah nama of the deceased's spouse where relevant
+- Consent affidavits of heirs, for uncontested applications
+
+### How are the shares of heirs decided?
+
+Shares are determined by the personal law of the deceased, which for most Muslims in Pakistan follows the rules of Islamic inheritance applicable to their school of thought. The court or authority calculates the shares of the spouse, children, parents and other relatives. A will cannot override these rules beyond the limits allowed by law. Your lawyer will explain each heir's share before you apply so there are no surprises.
+
+### Can heirs living abroad apply?
+
+Yes. Heirs living outside Pakistan can authorise a relative or lawyer through a power of attorney attested at a Pakistani mission, or follow the procedure NADRA allows for overseas applicants. Our lawyers coordinate with all heirs, wherever they live, to keep the process moving.
+
+### How MeraLawyer.pk helps
+
+We advise whether the NADRA route or the court route applies, prepare the application and affidavits, represent the heirs in court where needed, and help collect the assets once the certificate is issued. We can also handle inheritance mutation and transfer of immovable property. The fee is agreed before work starts.
+
 Q: Which is faster, NADRA or court?
 A: The NADRA route is usually faster when all legal heirs agree. If there is any dispute among heirs, the matter goes to the civil court.
 
@@ -455,6 +1187,59 @@ Documents required:
 - Any agreement already signed
 
 Laws: Registration Act 1908; Transfer of Property Act 1882; Punjab Land Revenue Act 1967
+
+Key facts:
+- Property verification confirms that the seller owns the property, has the right to sell it, and that nothing will block the transfer.
+- CDA and RDA publish information on approved and unapproved housing schemes in Islamabad and Rawalpindi.
+- In Rawalpindi, the record of rights (fard) and mutation history can be checked through the Punjab Land Records Authority.
+- In private societies, the society's records, dues and NOC position must be confirmed directly with the society office.
+- Verification should be completed before paying token money, not after.
+
+### Why is property verification so important in the twin cities?
+
+Property is often the largest purchase a family makes, and fraud in Islamabad and Rawalpindi usually follows familiar patterns: files sold twice, plots in schemes that were never approved, forged powers of attorney, sellers who are not the real owners, and land under litigation. All of these can be detected by checking records before you pay. Once money is paid, recovering it can take years.
+
+### What does a property verification report cover?
+
+A thorough verification checks the documents, the official record and the ground reality.
+- Ownership: the seller's name in the official record matches the CNIC
+- Chain of title: previous sales and mutations are consistent
+- Approval: the housing scheme is approved by CDA or RDA, as applicable
+- Society status: membership, dues, transfer restrictions and NOC
+- Encumbrances: mortgages, bank charges or attachments
+- Litigation: pending cases or stay orders affecting the property
+- Physical check: plot number, location, size and possession
+
+### How is property verified in Islamabad?
+
+For CDA sectors, the record is checked with CDA's estate management to confirm the current allottee or owner and any dues or restrictions. For private societies, the society office confirms the membership, file status and transfer history. For land in revenue estates around Islamabad, the record of rights and mutations are checked with the ICT revenue authorities. CDA's information on approved and unapproved private housing schemes is also checked, which is essential for areas outside the main sectors.
+
+### How is property verification done in Rawalpindi?
+
+In Rawalpindi, the fard (record of rights) and mutation history are obtained through the Punjab Land Records Authority's service centres. The registered sale deed history is checked with the Sub-Registrar's records where needed. RDA's information on approved housing schemes is checked for properties in private schemes, and cantonment board records are checked for properties in Rawalpindi or Chaklala Cantonment.
+
+### What warning signs should make you stop and check?
+
+Be cautious if you notice any of the following. None of them proves fraud, but each one deserves a careful check before you pay.
+- Price far below the market rate for the sector or society
+- Seller pressing for a quick payment or cash only
+- Seller acting through a general power of attorney instead of in person
+- Documents that are only photocopies, with originals 'with the bank' or 'at the society'
+- Plot in a scheme you cannot find on CDA or RDA lists
+- Different names or CNIC numbers across documents
+
+### What documents should you get from the seller?
+
+Ask for copies of these before the meeting, then compare them with official records.
+- Title document: registered sale deed, allotment or transfer letter, or fard
+- Seller's CNIC
+- Society membership documents and dues statement, if in a society
+- Approved building plan and completion certificate for built property
+- Latest utility bills and property tax receipts
+
+### How MeraLawyer.pk helps
+
+We verify the property with the relevant authority, check litigation and approvals, and give you a clear written report before you pay. If the property is clean, we can draft the agreement and handle the transfer. Overseas buyers can order verification remotely. The fee is agreed before work starts.
 
 Q: Why verify a property if the seller has the original documents?
 A: Fraud through forged or duplicate documents, sales by someone without authority, and properties under a stay order are common. Only the official record confirms the true position.
@@ -486,6 +1271,54 @@ Documents required:
 
 Laws: Registration Act 1908; Transfer of Property Act 1882; Stamp Act 1899; Income Tax Ordinance 2001 (sections 236C and 236K)
 
+Key facts:
+- Ownership of immovable property is transferred by a registered sale deed under the Transfer of Property Act 1882 and the Registration Act 1908.
+- In Islamabad's CDA sectors, transfer is processed by the Capital Development Authority; in private societies, by the society's transfer office.
+- In Rawalpindi, registration is done before the Sub-Registrar, and land records are updated through the Punjab Land Records Authority.
+- Advance taxes under the Income Tax Ordinance 2001 and stamp duty apply; filers on the Active Taxpayers List generally pay lower rates.
+- Mutation (intiqal) records the new owner in the land record after the sale deed is registered.
+
+### How does property transfer work in Islamabad?
+
+Islamabad has three main systems. Plots and houses in CDA sectors such as F-7, G-10, I-8 or E-11 are transferred through CDA's estate management, where both parties appear, documents are checked, dues are cleared and the transfer is recorded. Private housing societies such as DHA Islamabad, Bahria Town, Gulberg Greens and others transfer through their own offices, which issue an NOC and a transfer letter. Land recorded with the ICT revenue department is transferred by a registered sale deed and mutation.
+Each system has its own forms, fees and NOCs, so the first step is identifying which one applies to your property.
+
+### How does property transfer work in Rawalpindi?
+
+In Rawalpindi, most urban and rural property is transferred by a sale deed registered before the Sub-Registrar, followed by mutation in the land record maintained by the Punjab Land Records Authority. Properties in cantonment areas, such as Rawalpindi Cantonment and Chaklala Cantonment, involve the cantonment board's records. Properties in private societies such as Bahria Town Rawalpindi or DHA follow the society's transfer process.
+
+### What are the steps in a property transfer?
+
+Whatever the system, a safe transfer follows these stages in order.
+- Verification of title, approvals and dues before any payment
+- Agreement to sell with token money and a clear payment schedule
+- Clearance of dues and NOCs from CDA, the society or the cantonment board
+- Payment of advance taxes and stamp duty
+- Execution and registration of the sale deed, or society or CDA transfer
+- Mutation in the land record and handover of possession and original documents
+
+### What taxes are paid on property transfer?
+
+The seller usually pays advance income tax on sale, and the buyer pays advance tax on purchase, under the Income Tax Ordinance 2001. Rates are lower for persons on the Active Taxpayers List. Stamp duty is paid on the transfer deed under ICT or Punjab law, and registration and other charges apply. Capital gains tax may also arise for the seller depending on the holding period and the law in force. Rates change in the annual Finance Act, so we confirm the current figures for your transaction before the day of transfer.
+
+### What documents are needed for property transfer?
+
+The exact list depends on the authority, but these are usually required.
+- Original title documents: sale deed, allotment or transfer letter, or fard
+- CNICs of buyer and seller and of two witnesses
+- Recent photographs of the parties
+- Dues clearance and NOC from CDA, the society or the cantonment board
+- Tax payment challans and proof of filer status
+- Power of attorney if a party is represented
+
+### Can overseas Pakistanis transfer property without travelling?
+
+Yes, through a properly drafted and registered power of attorney, or by appearing at a Pakistani mission where the authority allows it. Because powers of attorney are often misused in property fraud, the wording should be specific to the property and transaction. Our lawyers draft the power and complete the transfer on your behalf.
+
+### How MeraLawyer.pk helps
+
+We verify the property, draft the agreement, calculate expected taxes, prepare documents for CDA, the society or the Sub-Registrar, and attend the transfer and mutation. The lawyer's fee is agreed before work starts, and government charges are shown separately at actual cost.
+
 Q: What is the difference between registry and mutation?
 A: Registry is the registration of the sale deed with the sub-registrar. Mutation (intiqal) updates the land record so the new owner appears in the fard. Both are needed.
 
@@ -514,6 +1347,52 @@ Documents required:
 - Passport-size photographs
 
 Laws: Powers of Attorney Act 1882; Registration Act 1908
+
+Key facts:
+- Powers of attorney in Pakistan are governed by the Powers of Attorney Act 1882, with stamp duty under the Stamp Act 1899.
+- A special power of attorney is limited to specific acts; a general power of attorney covers a wider range of acts.
+- A power of attorney used to sell or transfer immovable property generally needs registration under the Registration Act 1908.
+- Overseas Pakistanis can execute a power of attorney at a Pakistani embassy or consulate; stamp duty is then paid in Pakistan.
+- A power of attorney can be revoked, and the revocation should be notified to everyone who relied on it.
+
+### What is a power of attorney and when do you need one?
+
+A power of attorney is a document by which you (the principal) authorise another person (the attorney) to act on your behalf. It is used when you cannot be present yourself, for example because you live abroad, are unwell, or simply want a trusted person to handle a transaction. Common uses in Islamabad and Rawalpindi include selling or buying property, managing rent, pursuing a court case, dealing with banks, and completing CDA, society or PLRA formalities.
+
+### Special or general power of attorney: which should you choose?
+
+A special power of attorney authorises specific acts, such as selling one identified plot or pursuing one court case. A general power of attorney authorises a wide range of acts over a period of time. For most people, a special power of attorney is safer, because it limits what the attorney can do. General powers are useful in some situations, such as managing all affairs of an elderly parent, but they carry more risk.
+- Use a special power of attorney for a single sale, purchase or case
+- Name the property precisely with plot number, sector or khasra number
+- State whether the attorney can receive money, and into which account
+- Set an end date or end condition where possible
+- Avoid irrevocable powers unless there is a clear legal reason
+
+### How is a power of attorney made in Pakistan?
+
+The lawyer drafts the power of attorney on stamp paper of the correct value. The principal signs it before witnesses, and, depending on the purpose, it is attested by an oath commissioner or notary public. If it authorises sale or transfer of immovable property, it is generally registered with the Sub-Registrar, where the principal appears in person and biometric verification may be done.
+Some authorities, such as CDA and private housing societies, have their own formats or requirements for powers of attorney, so the lawyer checks these before drafting.
+
+### How do overseas Pakistanis make a power of attorney?
+
+If you live abroad, you sign the power of attorney before the Pakistani embassy or consulate, which attests it. Some missions also accept online appointments or specific procedures, so check the mission's requirements. The attested original is then sent to Pakistan, where stamp duty is paid and, if needed, it is registered before it is used. Your lawyer can prepare the wording in advance so that the embassy appointment goes smoothly.
+
+### What documents are needed?
+
+Keep these ready for drafting and execution.
+- CNIC or NICOP of the principal
+- CNIC of the attorney
+- Property documents or case details for which the power is given
+- CNICs of two witnesses
+- Passport copy for overseas principals
+
+### How do you cancel a power of attorney?
+
+A power of attorney can generally be revoked by the principal. The revocation is made in writing, registered if the original was registered, and notified to the attorney and to any authority or person who may rely on it, such as CDA, the housing society, the Sub-Registrar or a bank. Revocation is especially important if you suspect misuse; act quickly to prevent an unauthorised sale.
+
+### How MeraLawyer.pk helps
+
+We draft special and general powers of attorney, advise on embassy attestation for overseas clients, and handle stamp duty and registration in Islamabad and Rawalpindi. We also draft revocation deeds and notify the relevant authorities. The fee is agreed before we start.
 
 Q: Can I sell property through a power of attorney?
 A: Yes, if the POA specifically authorises it and is registered. Buyers and registrars usually require a registered special POA for property sales.
@@ -544,6 +1423,53 @@ Documents required:
 
 Laws: Code of Criminal Procedure 1898, sections 496 to 498; Pakistan Penal Code 1860
 
+Key facts:
+- Pre-arrest bail is sought under section 498 CrPC; post-arrest bail in non-bailable offences under section 497 CrPC.
+- In bailable offences, bail is a right under section 496 CrPC.
+- A bail application is normally filed in the Court of Session first, and in the High Court if refused.
+- Courts consider the nature of the offence, the evidence, whether the case needs further inquiry, and the conduct of the accused.
+- Bail granted can be cancelled if its conditions are misused.
+
+### When do you need to file a bail application?
+
+You need a bail application when an FIR has been registered against you or a family member in a non-bailable offence. If the person has not yet been arrested and fears arrest, the application is for pre-arrest bail. If the person is already in custody, the application is for post-arrest bail. Timing matters: the sooner a lawyer reviews the FIR and the police record, the stronger and faster the application can be.
+- An FIR has been registered and arrest is likely
+- A family member has been arrested and is on physical or judicial remand
+- Bail was refused by the sessions court and you want to approach the High Court
+- You live abroad and need protective bail to return and join the investigation
+
+### What are the grounds for bail?
+
+Courts decide each application on its facts, but certain grounds come up often. In post-arrest bail, the defence may argue that the case calls for further inquiry under section 497(2), that the accused is not required for investigation, that the offence does not fall within the prohibitory clause, or that there has been delay in trial. Special considerations apply to women, minors and sick or elderly accused.
+In pre-arrest bail, the court additionally looks for signs that the case is motivated by malice or an ulterior purpose, for example a civil dispute turned into a criminal case. Evidence supporting this, such as documents of an earlier dispute, is very helpful.
+
+### How does the bail process work in Islamabad and Rawalpindi?
+
+Your lawyer collects the FIR and any available record, drafts the application with supporting documents, and files it before the competent court. In Islamabad, that is usually the Court of Session in the district courts, and then the Islamabad High Court. In Rawalpindi, the district courts at Kachehri and then the Lahore High Court, Rawalpindi Bench. Cases under special laws go to the relevant special court.
+The court issues notice to the prosecution and the complainant, calls the police record, and hears arguments. In pre-arrest bail, the court may grant interim bail until the next hearing on the condition that the accused joins the investigation. If bail is granted, the accused furnishes surety bonds as directed by the court.
+
+### What documents are needed for a bail application?
+
+Bring what you have; the lawyer will obtain the rest.
+- Copy of the FIR and details of the police station
+- CNIC of the accused and of the proposed surety
+- Any documents showing an earlier civil or family dispute
+- Medical records if health is a ground
+- Previous orders, if bail was refused in a lower court
+- Property or salary documents of the surety, if required by the court
+
+### How long does it take to get bail?
+
+There is no fixed timeline. Interim pre-arrest bail can sometimes be obtained on the day of filing if the application is moved urgently. Post-arrest bail usually takes longer because the court calls the police record. Delays also depend on the court's workload, adjournments requested by the other side, and how complete the application is.
+
+### What happens after bail is granted?
+
+The accused must attend every trial hearing, cooperate with the investigation if required, and not threaten witnesses or tamper with evidence. Breaching these conditions can lead to cancellation of bail under section 497(5). Bail does not end the case; the trial continues, and your lawyer should plan the defence from the start.
+
+### How MeraLawyer.pk handles urgent bail matters
+
+Mark your matter as urgent by phone or WhatsApp and a case manager will connect you quickly with a criminal advocate who regularly appears in the relevant court in Islamabad or Rawalpindi. You get clear advice on the next steps, the fee agreed upfront, and updates after every hearing.
+
 Q: Which court do I apply to for bail?
 A: Usually the Sessions Court first. If bail is refused, you can apply to the High Court.
 
@@ -561,6 +1487,54 @@ MeraLawyer.pk connects you with vetted advocates who practise in Islamabad's cou
 Courts: Islamabad High Court; District and Sessions Courts Islamabad (East and West); Family Courts Islamabad; Banking Courts Islamabad; Special Courts and FIA Cyber Crime; Appellate Tribunal Inland Revenue (Islamabad bench)
 Areas served: F-6, F-7, F-8, F-10, F-11, G-6, G-9, G-10, G-11, G-13, I-8, I-10, E-11, Blue Area, DHA Islamabad, Bahria Town, Gulberg Greens, B-17, PWD, Bani Gala
 
+Key facts:
+- Islamabad is the Islamabad Capital Territory (ICT); its laws and authorities differ in places from Punjab's.
+- Appeals and constitutional petitions from Islamabad go to the Islamabad High Court.
+- Trial courts sit as the District and Sessions Courts Islamabad (East and West), with separate family, banking and special courts.
+- Property in CDA sectors is administered by the Capital Development Authority; private societies run their own transfer offices.
+- SECP's head office and many federal tax offices are in Islamabad, which matters for company and tax work.
+
+### How is the legal system in Islamabad different from Rawalpindi?
+
+Islamabad and Rawalpindi are twin cities, but legally they sit in different jurisdictions. Islamabad is the Islamabad Capital Territory, governed by federal laws and ICT-specific laws, with the Islamabad High Court at the top of its court system. Rawalpindi is in Punjab, governed by federal and Punjab laws, with the Lahore High Court, Rawalpindi Bench above its district courts.
+This matters in everyday cases. Rent disputes, stamp duty, property registration, services sales tax, succession procedures and even the minimum age for marriage can follow different rules depending on which side of the boundary your matter falls. A lawyer in Islamabad who knows these differences can save you from filing in the wrong forum or paying the wrong tax.
+
+### Which courts and offices handle legal matters in Islamabad?
+
+Our lawyers regularly deal with the institutions below. Knowing which office handles which step is a large part of getting work done quickly in the capital.
+- Islamabad High Court: appeals, writ petitions, bail after refusal by the sessions court
+- District and Sessions Courts Islamabad (East and West): civil suits, criminal trials and bail
+- Family Courts Islamabad: khula, maintenance, custody and dowry
+- Banking and special courts, including courts for cyber crime and anti-corruption matters
+- Capital Development Authority: transfers and records in CDA sectors
+- ICT Administration and Union Councils: nikah, divorce and birth or death registration
+- SECP head office in Blue Area and FBR's Regional Tax Office: company and tax matters
+
+### Which areas of Islamabad do our lawyers cover?
+
+We help clients across the capital, from the central sectors to the newer housing societies along the expressway and GT Road. Whether you live in F-6, F-7, F-8, F-10 or F-11, the G sectors from G-6 to G-15, the I sectors including I-8, I-9 and I-10, E-7 or E-11, or in DHA Islamabad, Bahria Town, Gulberg Greens, PWD, B-17, Bani Gala, Tarnol or Sihala, we can connect you with an advocate who handles your type of case.
+Many clients prefer to meet near their work in Blue Area or Jinnah Avenue; others prefer phone or WhatsApp consultations. Both are available.
+
+### What legal services do people in Islamabad need most?
+
+The capital has a high share of government employees, professionals, businesses and overseas Pakistani families, and that shapes the most common requests we see.
+- SECP company registration and annual compliance for new businesses
+- Income tax returns, NTN and sales tax registration for professionals and firms
+- Property verification and transfer in CDA sectors and private societies
+- Khula, maintenance and custody cases in the Family Courts
+- Pre-arrest and post-arrest bail in the sessions courts and Islamabad High Court
+- Succession certificates through NADRA or the civil court
+- Rent agreements and tenant disputes under the Islamabad Rent Restriction Ordinance 2001
+
+### How do you choose a good lawyer in Islamabad?
+
+Look for a lawyer who handles your specific type of case regularly and appears in the court where it will be heard. Ask about their enrolment with the bar council, how many similar matters they have handled, what the fee covers, and how they will keep you updated. Be wary of anyone who guarantees an outcome; no honest lawyer can.
+MeraLawyer.pk does this matching for you. You describe your matter once, a case manager matches you with a vetted advocate in the right practice area, and you agree the fee before work starts.
+
+### Can you consult an Islamabad lawyer online?
+
+Yes. Many matters, such as tax filings, company registration, agreements, legal notices and initial advice on family or property disputes, can be handled largely by phone, WhatsApp and email. Court appearances are made by your lawyer. Overseas Pakistanis use this route regularly, appointing a lawyer through a power of attorney.
+
 ## Hire a lawyer in Rawalpindi
 URL: https://meralawyer.pk/lawyer-in-rawalpindi/
 
@@ -568,6 +1542,288 @@ MeraLawyer.pk connects you with vetted advocates who practise in Rawalpindi's co
 
 Courts: Lahore High Court, Rawalpindi Bench; District and Sessions Courts Rawalpindi; Family Courts Rawalpindi; Banking Courts Rawalpindi; Rent Tribunal; Anti-Corruption Court
 Areas served: Saddar, Satellite Town, Bahria Town, Westridge, Chaklala, Gulraiz, Peshawar Road, Murree Road, Adiala Road, Committee Chowk, Raja Bazaar, Askari, Gulistan Colony, Dhamial, Taxila, Gujar Khan, Wah Cantt
+
+Key facts:
+- Rawalpindi is in Punjab; Punjab laws apply alongside federal laws.
+- Appeals and petitions go to the Lahore High Court, Rawalpindi Bench.
+- The district courts at Kachehri house the civil, sessions, family and other trial courts.
+- Land records are maintained by the Punjab Land Records Authority; property registration is before the Sub-Registrar.
+- Sales tax on services in Rawalpindi is administered by the Punjab Revenue Authority.
+
+### How does the legal system work in Rawalpindi?
+
+Rawalpindi falls under Punjab, so Punjab's laws on rent, stamp duty, land records and services sales tax apply, alongside federal laws such as the Code of Civil Procedure, the Code of Criminal Procedure and the Income Tax Ordinance. Trial courts sit at the district courts complex at Kachehri, and appeals and constitutional petitions go to the Lahore High Court, Rawalpindi Bench, which serves Rawalpindi and the surrounding districts.
+Because Islamabad is next door but follows different rules, many people are unsure which court or office to approach. A Rawalpindi lawyer checks jurisdiction first, which avoids wasted filings and delays.
+
+### Which courts and offices handle legal matters in Rawalpindi?
+
+These are the institutions our Rawalpindi lawyers deal with most often.
+- Lahore High Court, Rawalpindi Bench: appeals, writs and bail after refusal
+- District and Sessions Courts Rawalpindi at Kachehri: civil suits, criminal trials and bail
+- Family Courts Rawalpindi: khula, maintenance, custody and dowry
+- Rent Tribunal under the Punjab Rented Premises Act 2009
+- Punjab Land Records Authority service centres: fard and mutation
+- Sub-Registrar offices: registration of sale deeds and other documents
+- Rawalpindi and Chaklala Cantonment Boards: property records in cantonment areas
+- Punjab Revenue Authority and FBR's Regional Tax Office: tax matters
+
+### Which areas of Rawalpindi do our lawyers cover?
+
+We help clients throughout Rawalpindi city, the cantonments and the wider district. Whether you are in Saddar, Satellite Town, Westridge, Chaklala, Gulraiz, Gulistan Colony, Askari, Dhamial, Raja Bazaar or Committee Chowk, along Murree Road, Peshawar Road or Adiala Road, in Bahria Town or DHA, or further out in Taxila, Wah Cantt or Gujar Khan, we can connect you with an advocate who handles your matter.
+
+### What legal services do people in Rawalpindi need most?
+
+Rawalpindi is a commercial city with large residential areas and many families with relatives abroad. The most frequent requests reflect that.
+- Property verification, fard and mutation checks before purchase
+- Sale deed registration and property transfer
+- Khula, maintenance and custody cases at the Family Courts
+- Bail applications in the sessions courts and the High Court bench
+- Cheque dishonour and money recovery cases
+- Rent agreements and eviction cases before the Rent Tribunal
+- Sales tax registration with the Punjab Revenue Authority for service businesses
+- Succession certificates and inheritance disputes
+
+### What should you know about property and rent law in Rawalpindi?
+
+In Rawalpindi, the Punjab Rented Premises Act 2009 governs most tenancies. It expects tenancy agreements to be in writing and contemplates registration with the Rent Registrar, and disputes go to the Rent Tribunal. For property purchases, the fard and mutation history from the Punjab Land Records Authority are the starting point of any check, together with RDA's information on approved housing schemes for properties in private schemes.
+
+### How do you choose a good lawyer in Rawalpindi?
+
+Choose an advocate who practises in your type of case and appears regularly at Kachehri or the High Court bench, depending on where your case will be heard. Ask about their bar enrolment, experience with similar cases, the fee and what it covers, and how updates will be given. MeraLawyer.pk does the matching for you and agrees the fee with you upfront.
+
+## Hire a lawyer in Islamabad and Rawalpindi
+URL: https://meralawyer.pk/hire-a-lawyer/
+
+Key facts:
+- MeraLawyer.pk matches clients with vetted advocates in Islamabad and Rawalpindi by practice area.
+- Practice areas covered: family, criminal, property, corporate and overseas Pakistani matters.
+- The fee is agreed before work starts; government and court fees are charged at actual cost.
+- Consultations are available in Urdu or English, in person, by phone or on WhatsApp.
+- Your details are shared only with the lawyer handling your matter.
+
+### How do you know which type of lawyer you need?
+
+Start with the problem, not the title. If your issue involves marriage, divorce, khula, children or maintenance, you need a family lawyer. If there is an FIR, arrest or police complaint, you need a criminal lawyer. If it concerns buying, selling, inheriting or occupying land or a house, you need a property lawyer. If it is about a business, company, contract or tax, you need a corporate lawyer. If you live abroad and need any of these handled in Pakistan, an overseas Pakistani lawyer coordinates the work.
+Many matters touch more than one area. A property bought through a forged power of attorney can involve both civil and criminal proceedings; a divorce can involve property and custody. Tell us the whole story and we will match you with the right advocate, or a small team, for your situation.
+
+### What happens when you contact MeraLawyer.pk?
+
+The process is simple and designed to save you time.
+- You describe your matter by phone, WhatsApp or the online form
+- A case manager asks a few questions to understand the urgency and the court or office involved
+- You are matched with a vetted advocate who handles that type of case in Islamabad or Rawalpindi
+- The lawyer explains your options and the fee is agreed before work starts
+- You receive updates after each hearing or step
+
+### How are lawyers vetted?
+
+Every advocate we work with is enrolled with the relevant bar council, and we check the licence. Lawyers work in defined practice areas so clients are matched with someone who handles their type of matter, and they agree to give fee quotes upfront and to update clients after hearings. We review client feedback after every matter.
+
+### How much does it cost to hire a lawyer in Islamabad or Rawalpindi?
+
+Lawyers' fees in Pakistan are not fixed by the government. They depend on the type of case, whether it is contested, the court, and how many hearings are expected. Simple documentation work such as an agreement or legal notice is usually priced as a fixed fee, while court cases are often priced by stage. Court fees, stamp duty and official charges are additional and paid at actual cost.
+Whatever the matter, you should know before you start what the fee covers, what is extra, and what happens if the case takes longer. That is the standard we apply at MeraLawyer.pk.
+
+### Questions to ask any lawyer before hiring
+
+Whether or not you use MeraLawyer.pk, these questions help you choose well.
+- How many cases like mine have you handled, and in which court?
+- What are my realistic options, and what are the risks of each?
+- What does your fee include, and what will be charged separately?
+- Who will actually appear at hearings?
+- How and how often will you update me?
+- What documents do you need from me now?
+
+### Do you help overseas Pakistanis and people outside the twin cities?
+
+Yes. Overseas Pakistanis can appoint a lawyer through a power of attorney and follow their case by WhatsApp and video calls. People living elsewhere in Pakistan with matters in Islamabad or Rawalpindi courts or offices can also use our lawyers, since most of the work is done locally by the advocate.
+
+## Legal services in Islamabad and Rawalpindi
+URL: https://meralawyer.pk/legal-services/
+
+Key facts:
+- MeraLawyer.pk provides fixed-scope legal services in Islamabad and Rawalpindi, handled by lawyers.
+- Business and tax: SECP company registration, income tax returns, NTN, sales tax and trademark registration.
+- Documents: legal notices, agreements and powers of attorney.
+- Family and property: court marriage, khula, succession certificates, property verification and transfer.
+- Criminal: urgent bail applications in the sessions courts and High Courts.
+
+### What is the difference between a legal service and hiring a lawyer for a case?
+
+A legal service is a defined piece of work with a clear outcome: a registered company, a filed tax return, a drafted agreement, a registered nikah, a succession certificate or a transferred property. It usually follows a known procedure and can be priced as a fixed fee. Hiring a lawyer for a case is open-ended: the work depends on the other side, the court and the evidence, and is usually priced by stage.
+Many clients start with a service and later need representation, or the other way round. Both are handled through MeraLawyer.pk, so you do not have to start again with someone new.
+
+### Which services suit businesses and professionals?
+
+Businesses in Islamabad and Rawalpindi typically need a sequence of services as they grow.
+- Company registration with SECP, or partnership registration
+- NTN registration and annual income tax returns with FBR
+- Sales tax registration with FBR or the Punjab Revenue Authority
+- Trademark registration with IPO-Pakistan
+- Agreements: shareholders, clients, vendors, employees and premises
+- Legal notices for unpaid invoices or breach of contract
+
+### Which services suit families and individuals?
+
+For families, the most common needs relate to marriage, separation, inheritance and property.
+- Court marriage with proper nikah registration
+- Khula through the Family Court
+- Succession certificates for bank accounts and other assets
+- Property verification before buying
+- Property transfer, registration and mutation
+- Powers of attorney for relatives abroad
+- Rent agreements for landlords and tenants
+
+### How are fees set for legal services?
+
+Each service has a lawyer's fee agreed before work starts, plus government and official fees charged at actual cost and shown separately. Official fees include, for example, SECP filing fees, stamp duty, registration charges and court fees. Because official rates change, we confirm the current figures for your matter before you pay.
+
+### How long do legal services take?
+
+Timelines depend on the authority involved. Drafting work such as agreements and notices is usually quick. Registrations with SECP, FBR or PRA often take days rather than weeks when documents are complete. Court-based services such as khula and contested succession certificates take longer and depend on the court's schedule. Each service page explains the typical steps so you know what to expect.
+
+### Which legal services are time-sensitive?
+
+Some services cannot wait. Bail applications should be filed as soon as an FIR is registered. Income tax returns have an annual deadline, usually 30 September for individuals. Sales tax returns are due monthly. Replies to legal notices and FBR notices have deadlines stated in the notice. Property verification must happen before any payment. If your matter has a date attached, mention it when you contact us so that it is prioritised.
+
+### How do you get started?
+
+Choose a service from the list on this page, or contact us if you are not sure which one you need. Send your details by WhatsApp, call, or use the form, and a case manager will confirm the documents, the fee and the timeline before any work starts.
+
+## About MeraLawyer.pk
+URL: https://meralawyer.pk/about/
+
+Key facts:
+- MeraLawyer.pk is a legal services platform for Islamabad and Rawalpindi.
+- It matches people with vetted advocates in family, criminal, property, corporate and overseas Pakistani matters.
+- Fees are agreed before work starts; official fees are charged at actual cost.
+- Consultations are offered in Urdu and English.
+- Every advocate is enrolled with the relevant bar council, and the licence is checked.
+
+### What does MeraLawyer.pk do?
+
+MeraLawyer.pk helps people in Islamabad and Rawalpindi find the right lawyer and get legal work done without the usual confusion. You describe your matter once. A case manager understands what you need, matches you with an advocate who handles that type of case, and makes sure the fee is agreed before any work starts. For defined tasks such as company registration, tax returns, agreements, court marriage or property transfer, we offer clear, fixed-scope services.
+The name means 'my lawyer' in Urdu. The idea is simple: everyone should be able to get a lawyer they trust, at a fee they understand, without needing to know someone at the courts.
+
+### What problems are we trying to solve?
+
+Hiring a lawyer in Pakistan is often harder than it should be. People do not know which kind of lawyer they need, which court or office handles their matter, or what a fair fee looks like. Fees are often unclear until late in a case, updates are irregular, and clients are left guessing. Overseas Pakistanis face all of this from thousands of kilometres away.
+MeraLawyer.pk addresses these points directly: matching by practice area, fees agreed upfront, updates after each hearing, and plain explanations in Urdu or English.
+
+### How does the matching process work?
+
+Matching is based on the type of matter and where it will be handled.
+- We identify the area of law and the court or authority involved
+- We check urgency, for example a bail matter or an imminent deadline
+- We match you with an advocate who regularly handles that work in Islamabad or Rawalpindi
+- The advocate explains your options and the fee before you commit
+- We stay in touch to make sure updates reach you
+
+### Who do we serve?
+
+Our clients include families dealing with marriage, separation and inheritance; individuals facing criminal complaints; property buyers and sellers; landlords and tenants; start-ups, shops and established businesses; professionals and freelancers; and overseas Pakistanis with interests in the twin cities. We cover both Islamabad, from the central sectors to DHA, Bahria Town and the newer societies, and Rawalpindi, from Saddar and Satellite Town to the cantonments and the wider district.
+
+### Which areas of law do we cover?
+
+MeraLawyer.pk covers the matters people in the twin cities most often need help with, through advocates who handle each area regularly.
+- Family law: khula, divorce, maintenance, custody, dowry and court marriage
+- Criminal law: pre-arrest and post-arrest bail, FIR matters, trials and appeals
+- Property law: verification, transfer, mutation, possession and rent disputes
+- Corporate and tax: SECP registration, NTN, sales tax, income tax returns and trademarks
+- Documents: agreements, legal notices and powers of attorney
+- Overseas Pakistanis: property, inheritance and family matters handled from abroad
+
+### Why focus on Islamabad and Rawalpindi?
+
+The twin cities form one urban area but two legal jurisdictions, with different high courts, land record systems, rent laws and tax authorities. Focusing on these two cities means our lawyers know the local courts and offices well, which saves clients time and avoids mistakes such as filing in the wrong forum.
+
+### How do we protect your information?
+
+Legal matters are personal. Your details are shared only with the lawyer handling your matter and the case manager coordinating it. Lawyers are bound by professional confidentiality. We do not sell personal information. Our privacy policy explains what we collect and how you can ask us to delete it.
+
+### How do we keep clients informed?
+
+Clients receive an update after every hearing or step, by phone or WhatsApp, with copies of important orders and documents. When a decision is needed, such as whether to settle or appeal, the lawyer explains the options and the likely costs before you decide. Overseas clients can schedule calls to suit their time zone.
+
+### How is the content on this website prepared?
+
+The guides on this website explain Pakistani law and procedures in plain language so you can understand your situation before speaking to a lawyer. Each page shows when it was last reviewed. Laws, fees and procedures change, so the pages are general information, not advice for your specific case; please speak to a lawyer before acting.
+
+## Contact MeraLawyer.pk
+URL: https://meralawyer.pk/contact/
+
+Key facts:
+- You can contact MeraLawyer.pk by phone, WhatsApp, email or the online form.
+- Office hours are Monday to Saturday, 9am to 7pm; urgent bail matters can be raised by phone or WhatsApp at any time.
+- Consultations are available in Urdu or English, in person, by phone or by video call.
+- The fee for your matter is agreed before any work starts.
+- MeraLawyer.pk serves Islamabad and Rawalpindi, and overseas Pakistanis with matters in the twin cities.
+
+### What happens after you contact us?
+
+A case manager reads or listens to your message and contacts you to understand the matter: what happened, where you live, which court or office is involved and how urgent it is. You are then matched with a vetted advocate who handles that type of case in Islamabad or Rawalpindi. The lawyer explains your options and the fee, and nothing starts until you agree.
+- Step 1: Send your details by form, WhatsApp, call or email
+- Step 2: A case manager calls you back to understand the matter
+- Step 3: You are matched with the right advocate
+- Step 4: The lawyer explains your options and the fee
+- Step 5: Work starts after you agree, with regular updates
+
+### What information should you share when you contact us?
+
+You do not need to prepare a long explanation. A few details help us match you faster.
+- Your name and a phone number with WhatsApp
+- Your city or area, for example G-11 Islamabad or Satellite Town Rawalpindi
+- The type of matter: family, criminal, property, business, tax or other
+- Any deadline, hearing date or arrest risk
+- Whether you are in Pakistan or abroad
+
+### What should you bring to a consultation?
+
+Bring copies of any documents connected to your matter, such as a nikah nama, FIR, property papers, agreements, notices, court orders or tax documents. If you are not sure what is relevant, bring everything you have and the lawyer will sort it. For phone or WhatsApp consultations, clear photos of documents are usually enough to begin.
+
+### What if your matter is urgent?
+
+If someone has been arrested, an FIR has been registered, a hearing is very close, or a property is about to be sold or occupied, say so clearly when you contact us. Urgent matters are prioritised, and urgent bail matters can be raised by phone or WhatsApp at any time, including outside office hours.
+
+### Can you meet a lawyer in person?
+
+Yes. You can meet at our offices in Islamabad or Rawalpindi during office hours by appointment, or the lawyer may suggest meeting at the court or another convenient location. Many clients prefer phone or video consultations, which avoid traffic between the twin cities and are just as effective for most matters.
+
+### How do overseas Pakistanis contact us?
+
+WhatsApp is the easiest route. Send a message with your matter and your time zone, and a case manager will arrange a call at a convenient time, whether you are in Saudi Arabia, the UAE, Qatar, the UK, Europe, the USA or Canada. We will explain how to appoint a lawyer through a power of attorney if your matter needs one.
+
+### Is the first call free?
+
+Yes. The first call is to understand your matter and match you with the right lawyer, and there is no charge for it. Once the lawyer has explained your options, the fee for the work is agreed with you before anything starts, and official charges such as court fees or stamp duty are shown separately.
+
+### Why do people contact MeraLawyer.pk?
+
+Some of the most common reasons people in Islamabad and Rawalpindi get in touch are listed below. If your matter is not on the list, contact us anyway; we will tell you honestly whether we can help.
+- An FIR, arrest or police complaint that needs urgent bail
+- Khula, divorce, maintenance or custody
+- Checking a property before paying, or completing a transfer
+- Registering a company, NTN or sales tax
+- Filing an income tax return or replying to an FBR notice
+- A legal notice to recover money or a reply to one received
+- A succession certificate after the death of a family member
+- A court marriage or a power of attorney for a relative abroad
+
+### Which offices should you visit, Islamabad or Rawalpindi?
+
+Choose the office that is easier for you to reach; both handle matters in either city. If your case is in an Islamabad court or with an Islamabad authority such as CDA, the lawyer will usually be based near the Islamabad courts. If it is at the Rawalpindi district courts at Kachehri or the Lahore High Court, Rawalpindi Bench, a Rawalpindi lawyer is usually more practical. Office addresses with Google Maps links are shown above, and the case manager will confirm the meeting place when you book.
+
+### What languages can you use?
+
+You can speak to us in Urdu or English, and many clients mix the two. Documents filed in court are usually in English, with Urdu used where required. Your lawyer will explain every document before you sign it, in the language you are most comfortable with.
+
+### Can businesses contact you for ongoing legal work?
+
+Yes. Businesses in the twin cities often need recurring work such as monthly sales tax returns, annual SECP and FBR compliance, contract reviews and recovery notices. Tell us what you need on a regular basis and we will suggest a simple arrangement, with fees agreed in advance.
+
+### Is the first conversation confidential?
+
+Yes. What you tell us is shared only with the case manager and the lawyer handling your matter. Please do not send sensitive documents to anyone claiming to represent MeraLawyer.pk except through the phone number, WhatsApp number and email address shown on this page.
 
 ## General questions
 
