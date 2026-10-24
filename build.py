@@ -153,7 +153,7 @@ def head(path, title, desc, schema, og_type="website", noindex=False):
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="{E(LATIN_FONT)}">
 <link rel="stylesheet" href="{E(URDU_FONT)}">
-<link rel="stylesheet" href="/assets/css/styles.css">
+<link rel="stylesheet" href="/assets/css/styles.css?v=2">
 <script type="application/ld+json">
 {schema}
 </script>
@@ -237,7 +237,7 @@ def footer():
 <a href="/legal-services/" data-tab="/legal-services/">{icon('doc', 22, 'currentColor', 1.9)}<span>Services</span></a>
 <a class="tab-wa" href="{WA_URL}" target="_blank" rel="noopener">{icon('wa', 22, 'currentColor', 1.9)}<span>WhatsApp</span></a>
 </nav>
-<script src="/assets/js/main.js" defer></script>
+<script src="/assets/js/main.js?v=2" defer></script>
 </body>
 </html>
 """
