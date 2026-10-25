@@ -350,3 +350,8 @@ a.card:hover{border-color:var(--ink);transform:translateY(-4px);color:var(--text
 .longform h2{font-size:clamp(28px,3vw,40px)}
 .longform h2+p,.longform h2+ul{margin-top:18px}
 @media (max-width:600px){.keyfacts{padding:22px 20px}}
+
+/* ---- brand logo image ---- */
+.logo-img{display:block;height:66px;width:auto}
+.foot-logo{display:block;height:88px;width:auto}
+@media (max-width:980px){.logo-img{height:48px}}

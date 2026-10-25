@@ -151,16 +151,16 @@ def head(path, title, desc, schema, og_type="website", noindex=False):
 <meta name="twitter:title" content="{E(title)}">
 <meta name="twitter:description" content="{E(desc)}">
 <meta name="twitter:image" content="{D}/assets/img/og-image.png">
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="icon" href="/favicon.ico" sizes="32x32">
-<link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
+<link rel="icon" href="/favicon.svg?v=2" type="image/svg+xml">
+<link rel="icon" href="/favicon.ico?v=2" sizes="32x32">
+<link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png?v=2">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="alternate" type="text/plain" title="LLM summary" href="/llms.txt">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="{E(LATIN_FONT)}">
 <link rel="stylesheet" href="{E(URDU_FONT)}">
-<link rel="stylesheet" href="/assets/css/styles.css?v=3">
+<link rel="stylesheet" href="/assets/css/styles.css?v=4">
 <script type="application/ld+json">
 {schema}
 </script>
@@ -180,8 +180,7 @@ def header(active=""):
 </div></div>
 <header class="site-header"><div class="wrap">
 <a class="logo" href="/" aria-label="{E(C['brand'])} home">
-<span class="logo-mark">{icon('scale', 24, GOLD, 1.6)}</span>
-<span><span class="logo-name">MeraLawyer<b>.pk</b></span><span class="logo-tag">Hire a lawyer, the easy way</span></span>
+<img class="logo-img" src="/assets/img/logo-light.png?v=2" width="{LOGO['w']}" height="{LOGO['h']}" alt="MeraLawyer.pk (Mera Wakeel) logo">
 </a>
 <nav id="site-nav" class="nav" aria-label="Main">
 <div class="nav-dd"><button type="button" aria-expanded="false" aria-haspopup="true">Hire a lawyer {icon('chev', 14, 'currentColor', 2, 'chev')}</button>
@@ -215,7 +214,8 @@ def footer():
     return f"""<footer class="site-footer"><div class="wrap">
 <div class="foot-grid">
 <div>
-<div class="logo-name" style="color:#F5F6F2">MeraLawyer<b>.pk</b></div>
+<a href="/" aria-label="{E(C['brand'])} home"><img class="foot-logo" src="/assets/img/logo-light.png?v=2" width="{LOGO['w']}" height="{LOGO['h']}" alt="MeraLawyer.pk logo" loading="lazy"></a>
+<div class="logo-name" style="color:#F5F6F2;margin-top:14px">MeraLawyer<b>.pk</b></div>
 <p class="urdu" style="font-size:22px;line-height:2.1;color:{GOLD};margin-top:6px" lang="ur" dir="rtl">میرا وکیل، میرا حق</p>
 <p style="margin-top:6px;max-width:34ch">Helping people in Islamabad and Rawalpindi hire lawyers who handle their kind of case, with the fee agreed upfront.</p>
 </div>
@@ -244,7 +244,7 @@ def footer():
 <a href="/legal-services/" data-tab="/legal-services/">{icon('doc', 22, 'currentColor', 1.9)}<span>Services</span></a>
 <a class="tab-wa" href="{WA_URL}" target="_blank" rel="noopener">{icon('wa', 22, 'currentColor', 1.9)}<span>WhatsApp</span></a>
 </nav>
-<script src="/assets/js/main.js?v=3" defer></script>
+<script src="/assets/js/main.js?v=4" defer></script>
 </body>
 </html>
 """
@@ -665,37 +665,82 @@ def extras():
     json.dump({"name": C["brand"], "short_name": "MeraLawyer", "start_url": "/", "display": "standalone", "background_color": "#0D2B26", "theme_color": "#0D2B26",
                "icons": [{"src": "/assets/img/icon-192.png", "sizes": "192x192", "type": "image/png"}, {"src": "/assets/img/icon-512.png", "sizes": "512x512", "type": "image/png"}]},
               open(os.path.join(OUT, "site.webmanifest"), "w"), indent=1)
-    # favicon
-    fav = f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#0D2B26"/><g transform="translate(12 12) scale(1.67)" fill="none" stroke="{GOLD}" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">' + "".join(f'<path d="{("M"+p) if not p.startswith("M") else p}"/>' for p in P["scale"].split(" M")) + "</g></svg>"
+    # favicon: the logo emblem as a small PNG inside an SVG wrapper
+    fav = ('<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64">'
+           f'<image width="64" height="64" href="data:image/png;base64,{LOGO["fav_b64"]}"/></svg>')
     open(os.path.join(OUT, "favicon.svg"), "w").write(fav)
+
+# ------------------------------------------------------------------ brand logo
+LOGO = {}       # filled by make_logo(): sizes of the header logo, favicon data
+LOGO_H = 200    # stored height of the header logo image (shown at about a third of this)
+
+def make_logo():
+    """Cut brand/logo-source.png out of its white background and save the web versions.
+    logo.png       full colour, transparent (schema, light backgrounds)
+    logo-light.png green turned off-white, gold kept (dark header and footer)
+    emblem         the shield alone, used for favicons and app icons"""
+    import base64, io
+    from PIL import Image
+    img_dir = os.path.join(OUT, "assets", "img"); os.makedirs(img_dir, exist_ok=True)
+    src = Image.open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "brand", "logo-source.png")).convert("RGBA")
+    src = Image.alpha_composite(Image.new("RGBA", src.size, (255, 255, 255, 255)), src).convert("RGB")   # source may be transparent or white
+    src = src.resize((1000, 1000), Image.LANCZOS)
+    full, light = [], []
+    for r, g, b in src.getdata():
+        a = min(255, max(255 - r, 255 - g, 255 - b) * 255 // 110)
+        if a < 14:
+            full.append((0, 0, 0, 0)); light.append((0, 0, 0, 0)); continue
+        f = a / 255
+        rr, gg, bb = (max(0, min(255, round((c - 255 * (1 - f)) / f))) for c in (r, g, b))
+        full.append((rr, gg, bb, a))
+        light.append((rr, gg, bb, a) if rr > 120 else (245, 246, 242, a))   # gold stays, green becomes off-white
+    imf = Image.new("RGBA", src.size); imf.putdata(full)
+    iml = Image.new("RGBA", src.size); iml.putdata(light)
+    solid = lambda im: im.split()[3].point(lambda v: 255 if v > 90 else 0)   # ignore faint noise and shadows
+    box = solid(imf).getbbox(); imf, iml = imf.crop(box), iml.crop(box)
+    # the emblem ends at the widest empty gap between the shield and the word "Mera"
+    A = solid(imf); w, h = imf.size
+    empty = [A.crop((x, 0, x + 1, h)).getbbox() is None for x in range(w)]
+    runs, start = [], None
+    for x, e in enumerate(empty + [False]):
+        if e and start is None: start = x
+        if not e and start is not None: runs.append((x - start, start)); start = None
+    gap = max(r for r in runs if r[1] > w * 0.2)[1] if any(r[1] > w * 0.2 for r in runs) else int(w * 0.38)
+    emb = imf.crop((0, 0, gap, h)); emb = emb.crop(solid(emb).getbbox())
+    pad = lambda im, p: (lambda c: (c.paste(im, (p, p)), c)[1])(Image.new("RGBA", (im.width + 2 * p, im.height + 2 * p), (0, 0, 0, 0)))
+    pad(imf, 16).save(os.path.join(img_dir, "logo.png"), optimize=True)
+    lh = iml.resize((round(iml.width * LOGO_H / iml.height), LOGO_H), Image.LANCZOS)
+    lh.save(os.path.join(img_dir, "logo-light.png"), optimize=True)
+    LOGO.update(w=lh.width, h=lh.height, light=iml, emblem=emb)
+    def square(size, bg, scale=0.82):
+        c = Image.new("RGBA", (size, size), bg)
+        e = emb.copy(); e.thumbnail((int(size * scale), int(size * scale)), Image.LANCZOS)
+        c.alpha_composite(e, ((size - e.width) // 2, (size - e.height) // 2)); return c
+    for size, name in [(180, "apple-touch-icon.png"), (192, "icon-192.png"), (512, "icon-512.png")]:
+        square(size, (255, 255, 255, 255)).convert("RGB").save(os.path.join(img_dir, name), optimize=True)
+    square(48, (0, 0, 0, 0), 0.96).save(os.path.join(OUT, "favicon.ico"), sizes=[(16, 16), (32, 32), (48, 48)])
+    buf = io.BytesIO(); square(64, (0, 0, 0, 0), 0.96).save(buf, "PNG", optimize=True)
+    LOGO["fav_b64"] = base64.b64encode(buf.getvalue()).decode()
 
 def images():
     from PIL import Image, ImageDraw, ImageFont
-    img_dir = os.path.join(OUT, "assets", "img"); os.makedirs(img_dir, exist_ok=True)
+    img_dir = os.path.join(OUT, "assets", "img")
     ink, gold, paper = (13, 43, 38), (200, 162, 74), (245, 246, 242)
     serif = "/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf"; sans = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
-    def scale_icon(d, cx, cy, s, w):
-        # draw the scales mark (stroke) at centre cx,cy with unit s
-        L = lambda pts: d.line([(cx + (x - 12) * s, cy + (y - 12) * s) for x, y in pts], fill=gold, width=w, joint="curve")
-        L([(12, 3), (12, 21)]); L([(7, 21), (17, 21)]); L([(4, 7), (20, 7)])
-        L([(4, 7), (1.5, 13), (6.5, 13), (4, 7)]); L([(20, 7), (17.5, 13), (22.5, 13), (20, 7)])
-    og = Image.new("RGB", (1200, 630), ink); d = ImageDraw.Draw(og)
+    og = Image.new("RGBA", (1200, 630), ink + (255,)); d = ImageDraw.Draw(og)
     for x in range(0, 1200, 28):
         for y in range(0, 630, 28): d.point((x, y), fill=(30, 62, 56))
-    d.ellipse((80, 80, 180, 180), outline=gold, width=4); scale_icon(d, 130, 130, 3.2, 4)
-    d.text((80, 230), "MeraLawyer.pk", font=ImageFont.truetype(serif, 92), fill=paper)
-    d.text((80, 350), "Hire the right lawyer in", font=ImageFont.truetype(serif, 48), fill=paper)
-    d.text((80, 410), "Islamabad and Rawalpindi", font=ImageFont.truetype(serif, 48), fill=gold)
-    d.text((80, 520), "Family · Criminal · Property · Company registration · Tax filing", font=ImageFont.truetype(sans, 26), fill=(201, 211, 205))
-    og.save(os.path.join(img_dir, "og-image.png"), optimize=True)
-    for size, name in [(180, "apple-touch-icon.png"), (192, "icon-192.png"), (512, "icon-512.png"), (512, "logo.png")]:
-        im = Image.new("RGB", (size, size), ink); dd = ImageDraw.Draw(im)
-        scale_icon(dd, size / 2, size / 2, size / 36, max(2, size // 40)); im.save(os.path.join(img_dir, name))
-    ico = Image.new("RGB", (64, 64), ink); scale_icon(ImageDraw.Draw(ico), 32, 32, 1.8, 3); ico.save(os.path.join(OUT, "favicon.ico"), sizes=[(32, 32)])
+    lg = LOGO["light"].copy(); lg.thumbnail((600, 250), Image.LANCZOS)
+    og.alpha_composite(lg, (80, 70))
+    d.text((80, 360), "Hire the right lawyer in", font=ImageFont.truetype(serif, 48), fill=paper)
+    d.text((80, 420), "Islamabad and Rawalpindi", font=ImageFont.truetype(serif, 48), fill=gold)
+    d.text((80, 525), "MeraLawyer.pk  ·  Family · Criminal · Property · Company · Tax", font=ImageFont.truetype(sans, 26), fill=(201, 211, 205))
+    og.convert("RGB").save(os.path.join(img_dir, "og-image.png"), optimize=True)
 
 def build():
     if os.path.exists(OUT): shutil.rmtree(OUT)
     shutil.copytree(os.path.join(os.path.dirname(os.path.abspath(__file__)), "static"), OUT)
+    make_logo()
     home(); hire_hub(); services_hub(); about(); ceo_page(); contact(); faq_page()
     for a in AREAS: area_page(a)
     for s in SERVICES: service_page(s)
