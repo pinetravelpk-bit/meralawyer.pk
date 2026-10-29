@@ -125,6 +125,7 @@ def head(path, title, desc, schema, og_type="website", noindex=False):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="google-site-verification" content="OdD1o674QcdyaCAR6jFVCeMa2PKVANGRDaoYXXJz3P8">
 <title>{E(title)}</title>
 <meta name="description" content="{E(desc)}">
 <link rel="canonical" href="{url}">
